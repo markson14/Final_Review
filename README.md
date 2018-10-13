@@ -10,7 +10,7 @@ Companies may go through changes to in line with the current market and environm
 
 Among all these papers, they have illustrated numerous different kinds of failure when implementing changes. Some of them may fail at the beginning and some of them are just approximately close to the success. Generally, there are six different kinds of factor that have been highlighted and mentioned several times. In this section, these evidence will be broke down for further explanation and discussion.
 
-**Fail to establish Business Vision **
+**Fail to establish Business Vision**
 
 The concepts firstly mentioned by Kotter in 1995. It is describing that transformation without a clear vision will be easily losing its direction. Project without a certain purpose will be confusing by the employees. Thus, all these contributions will be work on a meaningless way. In book 'Break through IT change management', planning ahead for change and researching on industry is necessary as a part of implementing a successful transformation(Bennet P. , 2004). It also discuss the key value of the plan and strategy by many other authors. To establish the business vision properly, it is essential to understand the business scope and process of the company. Fully utilizing and optimizing the scoping problems would be a fast way to identify and locate our future business vision. It also concludes the concerns of manager level and employees (Paul Harmon, 2007). In many cases, this factor is regarding as the most vital issues. There are lots of enterprise are blindly follow the market trend and changing themselves where most of them are failed to succeed the change. Neglecting the importance of their own business goal and process is not able to survive the transformation. 
 
