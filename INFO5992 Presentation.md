@@ -1,0 +1,12 @@
+# INFO5992 Presentation
+
+Our solution is to providing a smart contact lens called Era, which is short for education resources accessing but also a deeper meaning of a new era of lens.
+
+Let's firstly have a look at the current market of smart contact lenses. It is still a niche market so far with the market value of approximately 4.5 billion dollar. Still a lot of people are not enjoying this technology in their daily life. The reason will be discuss later. 
+
+As you can see, there are four leading company that are working on products with this technology. Google is the first player in this market in 2014. They firstly focus on the health industry. The basic functions are using the lenses for monitoring the glucose level with tear analysing. It also has many supplementary functions such as focus adjusting and video showing. Senisimed SA. Is an medical technology oriented company. Their contact lenses use more advanced methods and algorithms for detecting eyes' diseases. Samsung and Sony were later releasing their own products with similar functions.
+
+Let take Google and sesimed SA as examples. Google is the first movers of this market, designing the standard technology and principle of this industry. They established a well-developed platform for receiving feedback from their customers and for further improvement. In terms of Sensimend SA, even though they have much more advanced technology and more specific purpose for their products, they are ignoring the distributed strategies and becoming infamous since they are not providing a community or feedback channel for the users. Only a few people who working on this industry are able to know them. 
+
+Our ERA lenses are basically consist of three main aspects. Lenses itself, well-developed community and extension of web api. Firstly, it is a wearable screen. It can also interacting with the reality by recognise the world and overlay images onto it. All the functions can be control by your eye motions in our first stage product. Later we may have a trial on brain-implanted sensor for brain computer interaction. Moreover, it can access to the university libraries or even browsing the social-media. We will provide a well-established community platform for user to exchange their information and communicating with each others. We also provide toolkits for developer to develop their own api that can be used by our contact lenses. It may somehow improve our product and borden its usage. 
+
