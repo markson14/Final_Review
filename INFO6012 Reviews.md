@@ -329,3 +329,113 @@
   - Value measures are diverse and they should be fit-for-purpose
   - Value needs to be thought thru in terms of longer term strategic benefits and short-term internal measures
   - Aspects of risk also needs to be addressed
+
+# L5 Technological Forecasting
+
+- Definition: The prediction of the invention, timing, trajectory, characteristics, performance, or rate of diffusion of a machine, material, technique, or process (or combination thereof) to serve some useful purpose.
+
+  - Difficult to make sound strategic decisions w/o some consideration of the future trajectories of key technologies
+  - One of the approaches to ‘scanning the environment’
+  - Help anticipate emerging tech changes
+  - Enables organizations think thru alternative scenarios
+  - Help plan for future technology needs
+
+- Key stages in tech forecasting
+
+  - framing the problem
+  - gathering and analyzing the data using a variety of methodologies
+  - Interpreting the results and assembling the forecast/stories based on the available information
+
+- Assumptions reg. the future in forecasting
+
+  - Extrapolation (预测未来走向) - future is a logical extrapolation of the past
+  - Future is too complex to get it right thru statistical and trend analyses - need to rely on expert/human judgment
+  - Pattern Analysis
+  - Contrarian
+
+- Forecast performance
+
+  - Accuracy (useful but not the only consideration)
+  - Actionability
+  - Reducing surprises
+
+- Planning for the future
+
+  - Trend extrapolation
+    - Extension of present trends into the future
+    - Assumes that the world is consistent and changes slowly
+  - Judgmental/intuitive methods
+    - Knowledgeable people propose ideas
+      - Delphi Method/Expert opinion
+    - Experts attempt to forecast likely developments
+  - Statistical modelling
+    - Discover causal or explanatory factors
+  - Scenario Planning
+
+- **Delphi Method**
+
+  - involves asking a group of experts to provide forecasts and projections and their comments and rationale
+
+  - The forecasts and comments are circulated among all the experts for a second round and asked if they would like to revise their forecasts and comments based on the inputs
+
+  - This process can continue for a few rounds until some kind of consensus emerges – possible convergence
+
+  - advantage:
+
+    - Anonymity, reduce the effects of groupthink
+    - relatively cheap
+    - does not require the experts to meet physically
+    - can address a variety of topics
+
+    - can develop a reasonable sense of the rationale behind the forecasts
+
+- Scenario Planning
+
+  - it is a method of **preparing** for the future regardless of what happens. But **NOT** a method for predicting the future. Enable better decisions making.
+
+  - When
+
+    - Uncertainty is high
+    - Too many costly surprises occurred in the past
+    - Few new opportunities exist
+    - Significant change occurred in industry or will occur
+    - Strong differences of opinion exist concerning the future
+
+  - How
+
+    - stage 1: Key focal issue
+
+      - identify a focal(焦点) issue
+      - Set time frame
+      - set scope of analysis (in terms of products,markets,geographic areas and technologies)
+
+    - stage 2: Driving forces identification
+
+      - major categories of drivers
+        - social
+        - economic
+        - political
+        - technology
+
+    - stage 3: Scenario Framework
+
+      - Construct scenarios
+        - Select two most important uncertainties
+      - Check for consistency and plausibility
+        - Must be very low correlation between pair of uncertainties
+
+      ![Capture](C:\Users\user\Desktop\Capture.PNG)
+
+    - stage 4: From scenarios to options
+
+      - develop implications
+        - return to the key focal issue
+        - place the organization within each scenario
+        - identify strengths and vulnerabilities
+      - develop options
+        - to address gaps in capabilities
+        - further research requirements, necessary actions
+        - critical decisions and choices
+
+# L6 
+
