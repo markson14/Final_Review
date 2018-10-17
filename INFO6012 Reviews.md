@@ -437,5 +437,127 @@
         - further research requirements, necessary actions
         - critical decisions and choices
 
-# L6 
+# L6 Technology Adoption and Diffusion
 
+- To formulate an effective technology strategy, one need to understand the patterns of customer adoption and technology diffusion
+
+  - To figure out the likely distribution of adopters
+  - to follow particular strategies to transition from innovators to the majority of the market
+  - To accurately forecast the growth of demand
+
+- Distribution of adopters
+
+  - Adoption: the decision of customers to purchase a new product or service
+  - Normal distribution is the most common pattern of adoption of new technology products and services
+    - early markets
+      - innovators: advertising not necessary
+      - early adopters: not price-sensitive
+    - mainstream markets
+      - early majority: advertising is necessary
+      - late majority: price-sensitive
+    - late market
+      - laggards
+
+- Crossing the Chasm
+
+  - transition to the majority of the market
+    - needed to achieve an adequate return on investment
+    - differences in the adoption decisions of early adopters and the majority of the market
+  - how
+    - show the value
+    - develop a complete solution to customers’ problems
+    - pursue a vertical marketing strategy rather than a horizontal marketing strategy
+    - segment the early majority of the market and focus on a niche whose needs are not well met (Beachhead strategy)
+
+- forecasting demand
+
+  - determine how much to produce
+  - project your costs in businesses based on economies of scale
+  - determine the payback on your investment in product development
+  - make pricing and advertising decisions
+  - determine the competitiveness of the market
+
+- information diffusion models
+
+  - **diffusion** is the rate at which a new tech product becomes adopted by potential users
+  - the functional form of diffusion is primarily a result of the distribution of innovators and imitators
+    - innovators
+    - imitators: 模仿者
+  - S-shaped pattern of market growth (sigmoid函数类似的增长): few innovator, many imitators
+  - Convex curve: many innovator, few imitators
+
+- The Bass Model
+
+  - a quantitative tool for forecasting the diffusion of new tech products that many companies use
+
+  - based on the size of the market (m), the rate of adoption by innovators(p) and imitators(q), and the cumulative number of adopters in the previous time periods($n_{t-1}$) 
+    $$
+    St=[p+(q/m)n_{t-1}](m-n_{t-1})
+    $$
+
+  - can be modified to include a variety of factors that affect the diffusion of new tech products
+
+  - most accurate at predicting the diffusion of consumer durables
+
+  - Limitations:
+
+    - Accuracy of predictions depends on the acc of assessments of size of the potential market
+    - assumes that the diffusion of a tech product depend on only demand-side factors
+    - further away in time from the initial adoption point, the acc declines
+
+- functional strategy
+
+  - approach taken by a functional area to achieve corporate and business unit objectives and strategies
+  - directed at improving effectiveness of basic operations, such as marketing, R&D, HR, etc.
+  - Involves:
+    - Maximizing resource productivity
+    - Developing distinctive competency
+  - We will focus on tech/ R&D strategy and IS/IT strategy
+
+# L7 Platform Strategy
+
+- platform: to characterize product, services, firm or institutions that mediate transaction between two or more group of agent
+- digital platform
+  - enablers
+    - the evolution of the internet
+    - connecting tech
+    - globalization
+  - less requirement on physical infrastructure and assets
+  - easy to scale up
+  - players
+    - external
+      - producers: creators of the platform’s offerings (apps developer)
+      - consumers
+    - internal
+      - providers: interfaces for the platform
+      - owner
+- “pipeline” business
+  - create value by controlling a linear series of activities – the classic value-chain model. inputs at one end of the chain undergo a series of steps that transform them into an output that’s worth more: the finished products
+- from pipeline to platform
+  - from resource control to resource orchestration
+  - from internal optimization to external interaction
+  - from a focus on customer value to a focus on ecosystem value
+- competitive threats for platform business
+  - an established platform with superior network effects that uses its relationships with customers to enter your industry
+  - a competitor may target an overlapping customer base with a distinctive new offering that leverages network effects
+  - platforms that collect the same type of data that your firm does suddenly go after your market, is still emerging
+- success of platform strategy is determined by
+  - **Connections**: how easily others can plug into the platform to share and transact
+  - **Gravity**: How well the platform attracts participants, both producers and consumers
+  - **Flow**: how well the platform fosters the exchange and cocreation of value
+- three building blocks of successful platform
+  - **Magnet**
+    - create pull that attracts participants to the platform with a kind of social gravity
+    - for transaction platforms, both producers and consumers must be present to achieve critical mass
+    - platform builders must pay attention to the design of incentives, reputation systems, and pricing models. They must also leverage social media to harness the network effect for rapid growth
+  - **Toolbox（开发者工具）**
+    - create connection by making it easy for others to plug into the platform. This infrastructure enables interactions between participants(for developer)
+  - **Matchmakers（推荐算法）**
+    - fosters the flow of value by making connections between producers and consumers
+    - data is at the heart of successful matchmaking, and distinguished platform from other business models
+    - captures rich data about the participants and leverages that data to facilitate connection between producers and consumers
+  - not all platform place the same emphasis on all three building blocks
+- challenges in adopting platform strategy
+  - trust
+  - legal
+  - security
