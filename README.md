@@ -28,15 +28,21 @@ There are several reasons contribute to this issue. In terms of organisational s
 
 **Not Establishing Short-Term Wins**
 
-It will easily lose momentum during transformation especially the long-term change. Thus, establishing short-term wins are able to encourage the employees and the process of change to some degree (Kotter, J. P. ,1995). By improving short-term financial performance for motivating the employees is one of the recommended traditional approaches (Jones. R. G. ,2017). In some case, short-term wins are promoting long-term success by showing that each phase was well performed and excellently finished (Keith, B. 2016). 
+It will easily lose momentum during transformation especially the long-term change. Thus, establishing short-term wins are able to encourage the employees and the process of change to some degree (Kotter, J. P. ,1995). By improving short-term financial performance for motivating the employees is one of the recommended traditional approaches (Jones. R. G. ,2017). In some case, short-term wins are promoting long-term success by showing that each phase was well performed and excellently finished (Keith, B. 2016).  In IT solution, a string of short-term wins enable a quick start on competition (Politoski, 1998). This idea can be used on change management as well.
+
+On the other hand, even though establishing short-term wins may motivate the employees, too many short-term wins may backfire and ruin the change process to some degree. Daniel Robinson said that his best business advice is never choose short-term wins to detriment of long-term value since the big picture of your project should be kept a whole instead of broken into pieces (Robinson, 2015). 
 
 **Declaring Victory Too Soon**
 
-In some failed transformation cases, announcing the victory without the solid foundation of supporting the post-change situation would lead to the collapse of the whole infrastructure.    
+In some failed transformation cases, announcing the victory without the solid foundation of supporting the post-change situation would lead to the collapse of the whole infrastructure. Underestimating the importance of strategic integration may cause the top management to declare victory too soon (Burgelman & Mckinney, 2005). Goals were unclear, which lead to the underestimation. Self-arrogant may also cause this issues. Sometime people just think it is the time regardless of the rules and principles. Both McLeod and Dow jones admitted that one of the biggest dangers in anything is like you declare victory too soon.
 
 ## Discussion
 
+
+
 ## Reference
+
+Burgelman, R. A., & Mckinney, W. (2005). Managing the Strategic Dynamics of Acquisition Integration: Lessons from HP and Compaq. *SSRN Electronic Journal*. doi:10.2139/ssrn.804565
 
 Change, Conflict and Community. (2008). doi:10.4324/9780080941677
 
@@ -74,7 +80,11 @@ Men, R. L., Bowen, S. A., & Burton, K. (n.d.). *Excellence in internal communica
 
 Myllykangas, P., Kujala, J., & Lehtimäki, H. (2010). Analyzing the Essence of Stakeholder Relationships: What do we Need in Addition to Power, Legitimacy, and Urgency? *Journal of Business Ethics,* *96*, 65-72. Retrieved from http://www.jstor.org.ezproxy1.library.usyd.edu.au/stable/29789757
 
+Never choose short-term wins over long-term value. (2015). *Director*, *69*(4), 97. Retrieved from http://search.ebscohost.com.ezproxy1.library.usyd.edu.au/login.aspx?direct=true&db=bsu&AN=112017138&site=bsi-live
+
 Parry, W., Kirsch, C., Carey, P., & Shaw, D. (2013). Empirical Development of a Model of Performance Drivers in Organizational Change Projects. *Journal of Change Management,**14*(1), 99-125. doi:10.1080/14697017.2012.745894
+
+Politoski, J. (1998). Seven new rules for IT success. *CIO Canada,* *6*(1), 36-38. Retrieved from http://ezproxy.library.usyd.edu.au/login?url=https://search-proquest-com.ezproxy1.library.usyd.edu.au/docview/217420273?accountid=14757
 
 Patricia, S., & Susan, C. (1988). WHY BIGGER IS BADDER AT SEARS The world's largest merchant is toppling under pressure from smaller, more efficient retailers. Management lacks the vision and urgency to make changes. *Fortune*.
 
