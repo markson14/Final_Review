@@ -561,3 +561,89 @@
   - trust
   - legal
   - security
+
+# L8 Network Effects and Strategy for Increasing Returns 
+
+- Increasing Returns businesses
+
+  - Some industries, particularly knowledge-intensive ones, are subject to increasing returns, which means that profit margins increase with the volume of production
+
+  $$
+  Profit = Revenue - Cost
+  $$
+
+
+- Why Industries Display Increasing Returns
+  - They have high up-front costs and low marginal costs
+    - Unit costs drop dramatically as volume increases
+  - Producer learning is high
+    - When learning curves are steep, firms increase their efficiency at producing and selling products as they make/market more units.
+  - Network externalities
+    - when the purchase of a product by a new customer creates additional value for existing customers
+      - Companies can charge later-to-adopt customers more for networked products than they can charge earlier-to-adopt customers.
+      - When customers pay for a product on an ongoing basis, companies have the opportunity to raise prices on additional units of networked products sold to existing customers.
+- Types of Network Effects
+  - Network externalities come in two varieties
+    - **Direct network effects** come from the direct interaction of users
+      - **Metcalfe’s law**: the value of a network is proportional to the square of the number of devices in it
+    - **Indirect network effect**: develop when the presence of complementary products (products that are used along with the focal product) increases a products value
+      - e.g. Video game console; DVD player
+      - more apps –> more value for customers –> more customers –> more value for developers –> more apps
+  - **Two-sided network**
+    - a same-side effect for each side: preference regarding number of other users on own side
+    - a cross-side effect in each direction: preference regarding number of users on other side
+- **Strategy for Increasing Returns**
+  - Build a large installed base quickly	
+    - Firms in increasing return industries need to build a large installed base, the number of current users of a product or service, quickly
+      - Because customer adoption decisions are affected by the size of the installed base
+    - A large installed base
+      - Helps to make the product the industry standard, which gives long-lasting leverage over other firms in the value chain
+      - Makes the product more attractive to the providers of complementary products
+      - Pushes the company down the learning curve
+      - Improves the economics of developing new technologies
+      - Will keep out competition by creating a positive feedback loop that is hard for competitors to break
+    - How to build
+      - Penetration pricing: comes at risk of lack of profitability
+      - Bundling the product with other products that are already popular with customers
+      - Targeting the mass market from the start
+  - Get Customers to Ignore lock-in
+    - Customers lock-in occurs when customers view the costs of switching suppliers as too high to justify doing so
+    - How
+      - Offer customers their money back if they are unhappy with the product or service (7天包退)
+      - **razor-razor blade model**
+        - Create a unique system, composed of a base product and additional components that are not compatible with competitor’s base product
+        - Sell the base product at cost and the components at a high margin
+  - Be a first mover
+    - Because the likelihood of new customer adoption increases with the size of the installed base
+    - Getting to market quickly is more important than having superior technology
+      - Because customers will not switch to superior technology if the inferior technology has already been adopted by a large installed base
+    - Contracting, rather than owning the different parts of the value chain, facilitates getting to market quickly
+- Limitation to a Strategy Based on Increasing returns
+  - Have to evaluate whether increasing returns are really present in the industry before setting strategy
+    - In some cases, network effects may only apply below a certain “critical mass” of customers; once this number has been reached, increases in network size may no longer create additional value for customers, so returns might not increase with network size
+  - Late movers’ technologies may turn out to be much better than those of first movers
+    - Leading customers to switch suppliers anyway
+- Technical Standards
+  - Specifications to ensure that different components of the same system are compatible
+  - Permit independent companies to produce different components for the same product
+  - Technical standards are of particular importance to start-up firms, which generally cannot, due to capital, produce all of the components needed to make a product
+  - Technical standards develop because:
+    - Of chance occurrence
+    - Some technical solutions are better than others
+    - Governments mandate them
+    - Industry trade associations or standards-setting bodies establish them
+    - Companies take strategic action
+  - Industries sometimes converge on standards that are technically inferior to other alternative
+    - Often because a technology achieves a large installed base and the cost to change is too high
+  - Technical standards influence customer adoption because:
+    - Customers don’t want to adopt products that might be abandoned or discontinued
+    - Customers desire compatibility, particularly for systemic products
+    - They make products more functional
+    - They facilitate the creation of complementary products
+  - How to Win a Standards Battle
+    - To win a standards battle, companies may
+      - Gain the support of producers of complementary products
+        - Have a complementary “killer application” making one technology much more attractive than another
+      - Make the product backward compatible so that it works with a previous generation of products (向下兼容)
+      - Manage customer and competitor expectations
+        - Through pronouncements and preannouncements
