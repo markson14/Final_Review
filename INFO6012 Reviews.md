@@ -573,6 +573,7 @@
   $$
 
 
+
 - Why Industries Display Increasing Returns
   - They have high up-front costs and low marginal costs
     - Unit costs drop dramatically as volume increases
@@ -647,3 +648,119 @@
       - Make the product backward compatible so that it works with a previous generation of products (向下兼容)
       - Manage customer and competitor expectations
         - Through pronouncements and preannouncements
+
+# L10 IT Investment and Strategic Outsourcing
+
+- Statistic about IT investment
+  - IT investment grew from 32% to 52% between 1980 and 2009
+  - 3555 IT projects between 2003 and 2012 that had labor costs of at least $10 million and only 6.4% of them were successful
+    - 68% IT projects fail
+    - IT failure costs global economy $6.2 trillion per year
+    - taking over 180 per cent of target time to deliver (完成时间需要1.8倍于预计时间)
+
+- Irrational decisions on IT investment
+  - Factor 1: Path Dependence
+    - **Path dependence** explains how the decision one faces is limited by the decision one has made in the pat, even though past circumstances may no longer be relevant
+      - It is easier or more cost effective to simply continue along an already set path than to create an entirely new one
+      - E.g. QWERTY vs. Dvorak keyboard
+    - Organizations tend to continually invest in the same type of IT assets
+      - competency building
+      - hardware and software compatibility
+      - switching costs
+    - Negative effects in the long term
+      - technological lock-in
+      - no exploration of new IT or innovative use of existing IT
+  - Factor 2: Time-lagged effect
+    - The effect lag is the amount of time between the time action is taken and an effect is realized
+    - IT investments yield time-lagged effects, therefore, their impact might not be immediately evident in contemporaneous financial measures
+    - Time lag of IT investments:
+      - Allocation -> Adoption-> Usage -> Appropriation
+    - Compared to R&D investment, HR investment, IT investment takes longer to be paid off
+    - Traditional financial measures
+      - ROI
+      - ROA (Returns on asset)
+      - Net margin
+      - Tobin’s Q
+    - Non-financial measures
+      - Operational efficiency: by the cost of goods sold
+      - Product innovation: By the number of new and modified products introduced
+      - Employee work satisfaction
+      - Industrial recognition
+    - Impacts of IT investment reflect **faster** in non-financial measures than financial measures
+    - Evaluating IT investment (L12)
+      - impacts in the long term
+      - both financial and non-financial measures
+  - Factor 3: Institutional Information Asymmetry
+    - Prisoner’s dilemma: is based on the game theory and used to understand the balance between competition and cooperation
+    - Managerial dilemma of investment in a particular IT
+    - It is most likely that both companies will invest
+    - Competitors’ actions are expected to influence managers’ IT investment decisions
+      - Managers have strong incentives to outperform competitors so that they invest in IT
+    - Also, managers imitate the IT investment behavior of other organizations in their reference group
+      - To signal conformity with external norms and expectations
+      - To establish and maintain the legitimacy of their organization
+      - E.g. ERP,EDI,healthcare systems
+    - In determining an appropriate business strategy, it is not sufficient to look at a static view of your competitors, you also need to take into account what their response will be to your strategy
+    - Business is like a Game
+      - Encourages an organization to consider competitors’ likely moves and the implications of these moves for tis own strategy
+      - Offers organizations ways to influence the behavior its rivals and hence change the market to maximize profits.
+      - It helps resolve situations where all participants are trying to influence, outguess, and adapt to the decisions of each other.
+      - Assists simultaneous cooperation and competition
+      - Key Concept
+        - Look forward and reason backwards!
+        - Put yourself in the head of the competitor
+- A portfolio approach on IT investment
+  - A portfolios a collection of assets held by an investor
+  - IT portfolio management is an increasingly common way to help management teams match IT investments to strategic objectives
+  - A study of more than 300 enterprises in 23 countries found that faster-growing and more agile firms such as 7-11 Japan, United Parcel Service (UPS) and ING Direct all had a portfolio approach to IT investment.
+- Four dimensions of IT investment
+  - Infrastructure IT investment
+    - e.g. servers, networks
+    - made to provide a flexible base for future business initiatives
+    - is associated with higher short-term costs, lower short-term profitability, and higher profitability and operation performance in the long run
+  - Transactional IT Investment
+    - e.g. order processing, point of sale processing, bank cash withdrawal
+    - made to reduce costs in standard, repetitive processes
+    - is associated with immediate cost reductions but not with more firm-level product innovation
+  - Informational IT investments
+    - e.g. decision support, sales analysis
+    - provide information for managing, accounting, reporting, and communicating internally and with customer, supplier, and regulators
+    - it can reduce costs and identify new opportunities for revenue generation and profitability improvements
+  - Strategic IT investment
+    - e.g. online product catalog
+    - successful strategic investments typically change the nature of service delivery or organizational processes in an industry
+    - reposition firms in the marketplace by supporting entry into a new market or the development of new products, services, or business processes
+  - what’s the Impact of IT investment on performance
+    - Firms’ total IT investment is not associated with performance, but investments in specific IT assets explain performance differences
+    - IT investments into different IT assets are guided by firm’s strategies
+      - firms with cost leadership strategies will likely allocate investments toward transactional IT systems designed to cut costs
+      - firms pursuing differentiation strategies will likely invest more in strategic IT systems that support product and process innovation
+  - IT investment and firm strategies
+    - IT investment brings both value and risk
+      - without good strategic planning and effective investment, there is an equally significant risk to destroy value
+    - Manage IT investment as a portfolio
+      - Explore new IT and innovative use of existing IT
+      - Focus not only short term gains but also long term impacts
+      - analyze competitors and action strategically
+      - Align IT investment with specific firm strategies and evaluate impacts accordingly
+- Strategic IT outsourcing
+  - Use of external service providers to effectively deliver IT-enabled business process, application service and infrastructure solutions for business outcomes
+    - Total outsourcing: outsourcing an entire activity to a supplier
+    - Selective outsourcing: outsourcing only part of an activity and performing the rest of the activity in-house
+  - Which IT service to outsource
+    - IT services that are unique to a company and provide it with significant competitive advantages over competitors
+      - Tend not to be outsourced
+      - Not to vendors that are trying to sell similar services to all their customers
+    - Commodity-like IT services, the priorities are reliability and low cost
+      - Tend to be outsourced if the vendors can provide reliable and low cost
+  - General Outsourcing decisions
+    - purchasing services or products from another party
+  - offshore outsourcing (海外外包)
+  - nearshore outsourcing (邻国外包)
+  - onshore or domestic outsourcing (本地外包)
+  - cloud computing
+    - SAAS model
+      - delivering applications over the internet as a service
+      - manage fluctuating demands efficiently
+      - rent it capabilities as needed
+  - managed services (network management functions e.g. VPN)
