@@ -575,6 +575,7 @@
 
 
 
+
 - Why Industries Display Increasing Returns
   - They have high up-front costs and low marginal costs
     - Unit costs drop dramatically as volume increases
@@ -765,3 +766,199 @@
       - manage fluctuating demands efficiently
       - rent it capabilities as needed
   - managed services (network management functions e.g. VPN)
+
+# L11 IT strategy implementation
+
+- Strategy Implementation
+  - Process by which the IT strategy that has already been developed is actually executed or put into action
+  - Strategy implementation even more important than formulation
+  - Strategy implementation as competitive advantage (implementation as key)
+    - Successful execution of strong and robust strategies gives any organisation a significant competitive edge
+    - In current turbulent environments, the ability to develop and execute new strategies quickly and effectively may be the difference between success and failure for organisations
+    - Well-formulated strategies only produce superior performance for organisations when they are successfully executed
+    - Even the best-made strategies are worthless if they are not executed successfully
+  - Most strategy implementations fail (implementation as failure)
+    - Fewer than 15 percent of organisations around the world report that they are successful at strategy implementation
+    - Various studies have reported strategy implementation failure rates at 60 to 90 percent
+    - The majority of strategies fail in the strategy implementation phase
+    - Many organisations have a fundamental disconnect between the formulation of their strategy and the implementation of that strategy into useful action
+  - Why does IT strategy implementation fail so often
+    - Failure to achieve the necessary level of buy-in from all the relevant stakeholders
+    - Failure to create the necessary conditions for the implementation; managing the change as the implementation work progresses
+    - Need to pay careful attention to the strategy execution process, content, and context
+  - What must be done
+    - Develop a clear plan to implementation strategies
+    - Develop an implementation plan and a budget
+    - Monitor the plan periodically
+    - Develop processes and procedures that detail the activities to be carried out as part of the implementation
+    - Create necessary organisational units such as steering committees and project teams with suitable and accountable leadership
+  - Develop a clear and attractive vision
+    - Successful strategy formulation and implementation begins with developing a sound and clear strategic vision
+    - The strategic vision describes the desired future state of the organisation and clarifies the direction in which an organisation is to move
+    - The strategic vision needs to be attractive and easy to communicate to organisational members, customers and other stakeholders
+    - A clear and attractive strategic vision increase the confidence of employees in a successful outcome of the implementation effort
+  - The organisation needs a clear and sound IT strategy in the first place
+    - Clear statement of what the strategy seeks to achieve and how the digital resources are to be deployed
+    - Senior management buy-in
+    - Needs to be realistic and adequately resourced
+    - Effective communication leading to shared understanding of the IT strategy among managers and key employees at all levels and other stakeholders
+  - Communicate the strategy
+    - No less than 95 percent of employees do not understand the strategy of their own organisation
+    - The objective is to make employees understand what the strategy is all about and what its goals are
+    - The strategy needs to be clearly explained in a way that employees understand and may become convinced that the strategy is sound and effective
+    - Employees are more accepting of undesirable decisions when they receive clear and adequate explanations for those decisions. This is called procedural justice
+    - Not only is it important to communicate the strategy to the people but also to listen their reactions to the strategy
+  - Employee Involvement
+    - Involve employees and stakeholders
+      - Participation allows management to tap into the specialised knowledge of lower-level employees. This can improve the strategy and its execution
+      - A strategy formulated without much employee involvement is more likely to have major flaws
+      - Involving managers, employees, customers and external stakeholders increases the communication, commitment and execution of the strategy
+      - A strategy that is developed and implemented without the involvement of relevant employees is likely to be resisted during implementation by the affected employees
+      - When employees feel that they have significant input in the strategy they tend to be very committed to that strategy
+    - Train and develop employees
+      - Successful organisations place high importance on training and developing their staff
+      - Adequately trained staff is one of the most critical steps top management can take to ensure successful strategy execution
+      - Executing a new strategy often requires new activities and ways of thinking, which can be learned by training and educating employees
+      - Training and education improves employee knowledge, skills, and self-confidence and makes them perform better
+      - Training and education can consist of courses, collective classes, training, and individual guidance and coaching
+    - Align structure to startegy
+      - Design a clear and decentralised organisation structure that is aligned to the strategy
+      - A decentralised structure increases commitment of employees to decision-making, speed of decision-making, and improves the quality of decisions using specialised knowledge of employees at lower levels in the organization
+      - Individuals working in centralized organisations tend to feel that management does not trust their skills and abilities resulting in a sense of incompetence, reducing self-determination and intrinsic motivation and performance
+      - Design a clear structure with clear procedures, rules and responsibilities that gives employees certainty during the execution
+    - Create a safe and innovative culture
+      - A new strategy involving layoffs triggers intense emotions such as anxiety and fear for job security among organisational members
+      - Job insecurity lowers job satisfaction, strategy commitment, job involvement, trust in management and work effort and increases psychological withdrawal, resistance to change and the propensity to leave the organization
+      - Many organisations have a culture of fear in which employees are afraid to lose their job or to be treated harshly by their superiors
+      - Highly centralised and formalised structures with rigid rules create a fear for making mistakes, responsibility, participation and change, acting as major barriers to strategy implementation
+      - Cultivate a fearless culture in which employees dare to take initiative, voice their opinion and are not afraid to make mistakes
+  - Resistance to change
+    - Take political interests into account
+      - Strategic change inevitably raises questions of power within an organization
+      - The very prospect of organisational change confronts established positions and may lead to resistance to change
+      -  Politics and struggles over power and leadership undermine a strategy execution effort
+      - Resistance to change many lead to passivity toward the strategy and its execution or even sabotage
+      - Overcome resistance to change by involving potential opponents in decision-making, taking their interests seriously, clearly communicating the new strategy to them and confronting dissidents
+  - Culture and strategy
+    - Culture can affect a company's ability to implement a new strategy
+    - When implementing a new strategy, a company should consider the strategy-culture compatibility
+    - Communication is key to effective management of cultural change
+  - Reward system
+    - Build a reward system that monitors the process of the execution and demonstrates top management's commitment to the realisation of the strategy
+    - Reward systems are essential for motivating staff and ensuring appropriate behaviour in relation to the strategy
+    - Rewarding execution performance increase the motivation, commitment and performance of organisational members
+    - Informal rewards greatly increase greatly increase the motivation, self-confidence and performance of organisational members
+    - Employees often do not get compliments when performing well but do get criticism for making mistakes. This reduces motivation self-efficacy and performance
+  - Critical factors in IT strategy implementation
+    1. Appoint competent management
+    2. Use people management skills
+    3. Deal with political behavior
+    4. Develop and execution plan
+    5. Align strategy and structure
+    6. Create a fearless culture
+    7. Provide leadership
+    8. Communicate the strategy
+    9. Monitor and adapt the execution
+  - Recommendations for managing changes
+    - Get support and commitment from top management
+    - Involve as many people as possible 
+    - Make constant change an expected part of the culture
+    - Tell everyone as much as possible about everything as often as possible
+    - Make liberal use of financial incentives and recognition
+    - Work within the company culture but changes to the culture may be needed at times
+
+# L12 strategy evaluation and control
+
+- Evaluation and Control
+
+  - Process in which corporate activities and performance results are monitored 
+  - Ensures that the firm is achieving what it set out to accomplish 
+  - Compares performance with desired results 
+  -  Provides feedback to evaluate results 
+  - Takes corrective action if necessary 
+
+  ![Screen Shot 2018-10-25 at 1.59.21 pm](/Users/marksonzhang/Desktop/Screen Shot 2018-10-25 at 1.59.21 pm.png)
+
+- Measuring performance
+
+  - Performance – End result of activity
+  - Types of controls that can be used to measure performance:
+    - Output controls – Focus on actual performance results 
+    - Behaviour controls – Focus on activities that generate the performance 
+    - Input controls – Focus on resources that are used in performance
+
+- Problems in Measuring Performance
+
+  - Short-term orientation
+
+    - Difficult to measure long-term benefits and 
+
+    implications 
+
+  -  Goal displacement 
+
+    - Confusion of means with ends 
+
+    - Behaviour substitution – Wrong activities are being rewarded 
+
+    - Suboptimization – A unit optimizes its goal accomplishment to the detriment of the organization as a whole
+
+- Leading and Lagging indicators
+
+  - Leading indicators - An indicator that predicts future events and tend to change ahead of that event. Sometimes used as a predictor. 
+  - Lagging indicators - follow an event
+
+- Balanced Scorecard
+
+  - The Balanced Scorecard is a management tool that provides stakeholders with a comprehensive measureof how the organization is progressing towards the achievement of its strategic goals.
+    - Balances financial and non-financial measures 
+    - Balances short and long-term measures 
+    - Balances performance drivers (leading indicators) with outcome measures (lagging indicators) 
+    - Leads to strategic focus and organizational alignment 
+  - Use of balanced scorecard in organization
+    - It is suggested that over 50% of large US firms have adopted the BSC. 
+    - More than half of major companies in the Europe and Asia are using balanced scorecard approaches, with use growing in those areas as well as in the Middle East and Africa. 
+    - A recent global survey of 1,208 executives by Bain & Co listed balanced scorecard fifth on its top ten most widely used management tools around the world, a list that includes closely-related strategic planning at number one. 
+    - Balanced scorecard has also been selected by the editors of Harvard Business Review as one of the most influential business ideas of the past 75 years. 
+  - Four perspectives:
+    - financial
+      - survive
+      - succeed
+      - Prosper
+    - customers
+      - New products
+      - Responsive supply
+      - Preferred suppliers
+      - Customer partnerships
+    - Internal processes
+      - Manufacturing excellence
+      - Design productivity
+      - New product introduction
+    - Learning and innovation
+      - Technology leadership
+      - Manufacturing learning
+      - Product focus
+      - Time to market
+  - User of balanced scorecard in organization
+    - Balanced scorecard brings together, in a single management report, many of the seemingly disparate elements of a company’s competitive agenda 
+      - becoming customer oriented, shortening response time, improving quality, emphasizing teamwork, reducing new product launch times 
+    - Balanced scorecard forces managers to consider all the operational measures together, lets them see whether improvement in one area may have been achieved at the expense of another 
+
+- IT Scorecard
+
+  - User orientation
+  - Business contribution
+  - Operational excellence
+  - Future orientation
+
+- Pratical recommendations
+
+  - Every measure is part of a chain of cause and effect linkages
+  - A balance exists between outcome measures and the performance drivers or desired outcomes
+  - Start simultaneously constructing a business and IT scorecard
+  - Consider the scorecard technique as a supportive mechanism for IT/business alignment and IT governance
+
+
+
+
+

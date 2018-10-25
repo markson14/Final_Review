@@ -14,7 +14,7 @@ In those two years, NAB was focusing on integrating their digital platform and p
 
 In 2015, NAB roll out a robo advisers, which is a online computer-generated advice platform, to help to achieve the real-time response (Conroy, 2015). It can provide personalized tips on super and insurance, with NAB planning to expand the product to cover debt, cash flow, investments and estate planning. To in line with customers’ current state and activate the relationship between customer and bank adviser, robo advisers are able to provide extensive business service support. In this case, robo advisers can optimize the labor resources and also provides more detailed and persuasive services support to their customers. 
 
- 
+
 
 #### Strategic Collaborations
 
