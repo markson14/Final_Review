@@ -1,47 +1,50 @@
 ## opening
 
-Dear top management, we are No.4 ICT consultant team from enterprise strategy consultant. These are my team members. Here is outline of our presentation. The first part we are going to cover the current market and industry, Following with our business and future vision. Later we are going to illustrate our current problems and challenges and our suggested transition programme
+Dear top management, we are No.4 ICT consultant team from enterprise strategy consultant. These are my team members. Here is outline of our presentation. 
 
 ### market
 
-Kaizen consists of 4 main departments spreading all over the world
+First of all, let briefly go through the current market. Kaizen consists of 4 main departments spreading all over the world.70% of business is UK based taken by Cars department. 10% of Business is US based taken by PSV departments. 5% is taken by marine and 5% is taken by energy.
 
 ### Automotive
 
-Kaizen
+**Kaizen**
 
-- The automotive department of kaizen is 70% uk based. 
+There is big growth in EMEA and both north and south America markets. there is potential that China and India market could triple current car engine sales in the near future. EU environmental legislation will put up cost of cars and require systems to track engine parts to ensure that they are recycled. 
 
-- EMEA Static market, growth is in electronics in cars (dvd, iPod connections, SatNav, etc) 
-- North America Static market, growth is in electronics in cars (dvd, iPod connections, SatNav, etc) 
-- South America Big Growth in Car sales but from a very small base 
-- Asia Pacific Big Growth in Car sales in India and China possible in near future which could triple current car engine sales 
-- EU environmental legislation will put up cost of cars and require systems to track engine parts to ensure that they are recycled (target is 80% engine recycling) 
-- Move to alternate fuel sources means current engine models have a limited life span. Lots of new engine designs needed very soon. New skills necessary in a number of areas
+**global**
 
-global
-
-- $2 Trillion industry with over 60+ million vehicles built 
-- About 40 major players 
-- Global auto market shared by very large companies in every major region 
-- Supported by a diverse global supply base that contributes 60% to the end customer costs 
+The global automotive market has $2 Trillion industry with over 60+ million vehicles built. About 40 major players shared this market in every major region. Currently, they are facing the rapid globalization as well as the rising non product costs which is the employee health care and pensions.
 
 ### Public Service Vehicles 
 
-- Growing in EMEA due to move to environmentally friendly 
-
-- transportation although significant competition from tram schemes
+In terms of the PSV department, the market is growing in EMEA due to move to environmentally friendly. 
 
 ### Marine
 
-- Luxury market, largely static with 5% growth predicted per year
+Marine is focus on Luxury market, largely static with 5% growth predicted per year
 
 ### Energy
 
-- Growth happens in spurts as countries do deployments of new
-  power stations then up to 30 year life per device
+Growth in energy department happens in spurts as countries do deployments of new power stations then up to 30 year life per device.
 
+### Manufacturing
 
+the global manufacturing industry worth $144 billion and currently is facing several issues. 
+
+### Aftermarket
+
+The after market operated by kaizen is worth $180 billion which is even large than the global manufacturing industry.
+
+### Opportunity
+
+Considering of the current market, we have found out several opportunities and threats.
+
+Cost can be reduce by the global design center. Digital marketing and diverse to service business model enable us to penetrate into the aftermarket. Innovation is the key to improve our continuous competitive advantages. 
+
+### Threat
+
+However, we are also facing the law compliance issues and standard disparity all over the world. Meanwhile, rivals and new entrants are catching up gradually. Legacy IT infrastructure would hinder our business in the future.
 
 
 
