@@ -279,7 +279,7 @@
   - An approach for estimating the tangible and intangible worth of organizational assets
   - An appraisal of intellectual assets such as knowledges, experience, and skills
   - A technique for determining the complete worth of an investment to an enterprise
-  - A method of determining the health and well=being of a firm in the long run
+  - A method of determining the health and well-being of a firm in the long run
   - A set of measures including employee, customer, supplier, alliance, management, and societal value
 - Value from digital business strategy
   - new business platform
@@ -571,6 +571,7 @@
   $$
   Profit = Revenue - Cost
   $$
+
 
 
 

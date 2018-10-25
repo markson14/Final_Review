@@ -20,3 +20,5 @@ O'Brien, J., & CMO. (2014). How NAB uses data insights to personalise real-time 
 
 Smith, P. (2013, June 24). NAB opens digital wallet and takes aim at CBA's Kaching. Retrieved from https://www.afr.com/technology/enterprise-it/nab-opens-digital-wallet-and-takes-aim-at-cbas-kaching-20130624-jhixp
 
+Smith, P. (2018, October 22). NAB trials AI-powered facial recognition ATMs. Retrieved from https://www.afr.com/technology/nab-trials-aipowered-facial-recognition-atms-20181018-h16sye
+
