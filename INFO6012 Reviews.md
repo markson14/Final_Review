@@ -198,6 +198,10 @@
 
 # L3 Digital Business Strategy and Alignment
 
+- Strategic alignment model
+
+  ![Screen Shot 2018-10-25 at 3.17.49 pm](./Screen Shot 2018-10-25 at 3.17.49 pm.png)
+
 - Alignment
   - Business drives IT
   - IT enables Business
@@ -216,7 +220,7 @@
   - Cloud
     - eliminates the need to invest heavily in hardware, software and infrastructure
     - SaaS reduces costs incurred on expensive data centers.
-- Significant Trends
+- **Significant Trends**
   - Big data, AI, Machine Learning
   - Global connectivity
   - Much lower price-performance levels
@@ -592,9 +596,13 @@
     - **Indirect network effect**: develop when the presence of complementary products (products that are used along with the focal product) increases a products value
       - e.g. Video game console; DVD player
       - more apps –> more value for customers –> more customers –> more value for developers –> more apps
+
   - **Two-sided network**
-    - a same-side effect for each side: preference regarding number of other users on own side
-    - a cross-side effect in each direction: preference regarding number of users on other side
+
+    ![Screen Shot 2018-10-25 at 3.45.42 pm](./Screen Shot 2018-10-25 at 3.45.42 pm.png)
+
+    - a **same-side** effect for each side: preference regarding number of other users on own side
+    - a **cross-side** effect in each direction: preference regarding number of users on other side
 - **Strategy for Increasing Returns**
   - Build a large installed base quickly	
     - Firms in increasing return industries need to build a large installed base, the number of current users of a product or service, quickly
@@ -877,7 +885,7 @@
   -  Provides feedback to evaluate results 
   - Takes corrective action if necessary 
 
-  ![Screen Shot 2018-10-25 at 1.59.21 pm](/Users/marksonzhang/Desktop/Screen Shot 2018-10-25 at 1.59.21 pm.png)
+  ![Screen Shot 2018-10-25 at 1.59.21 pm](./Screen Shot 2018-10-25 at 1.59.21 pm.png)
 
 - Measuring performance
 
