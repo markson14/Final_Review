@@ -115,35 +115,34 @@
 
 - the choice of direction for the firm as a whole
 - deals with three key issues:
-  - Directional strategy - the firm's overall orientation toward growth, stability or retrenchment
+  - Directional strategy - the firm's overall orientation toward growth, stability or retrenchment (裁员)
   - Portfolio strategy - the industries or markets in which the firm competes through its products and business units
   - Parenting strategy - the manner in which management coordinates activities, transfers resources and cultivates capabilities among product lines and business units
 
-#### Directional Strategy
+#### 1. Directional Strategy
 
 - deals with the company's orientation towards growth
 
 - Composed of three general orientations:
 
-  - **Growth** Strategies expand the company's activities
+  - **Growth** Strategies expand the company's activities - Concentration on current product lines in one industry
 
-    - Concentration on current product lines in one industry
+    - Vertical Growth
+      - taking over a function previously provided by a supplier or by a distributor
+      - Can be achieved by expanding current operations or through acquisitions
+      - Result in **Vertical Integration**
+        - The degree to which a firm operates vertically in multiple locations on an industry’s value chain
+          - Backward integration
+          - Forward Integration
 
-      - Vertical Growth
-        - taking over a function previously provided by a supplier or by a distributor
-        - Can be achieved by expanding current operations or through acquisitions
-        - Result in **Vertical Integration**
-          - The degree to which a firm operates vertically in multiple locations on an industry’s value chain
-            - Backward integration
-            - Forward Integration
+    - Horizontal Growth
+      - Extending products into other geographic locations
+      - Increasing the range of products and services it offers to current markets.
 
-      - Horizontal Growth
-        - Extending products into other geographic locations
-        - Increasing the range of products and services it offers to current markets.
-      - Internal Growth
-        - Expand operation globally and domestically
-      - External Growth
-        - Through merges, acquisition ion and strategic alliances
+    ![Screen Shot 2018-10-27 at 1.28.43 pm](/Users/marksonzhang/Desktop/INFO6010/Screen Shot 2018-10-27 at 1.28.43 pm.png)
+
+    - Internal Growth - Expand operation globally and domestically
+    - External Growth - Through merges, acquisition ion and strategic alliances
 
     - Diversification into other product lines in other industries
 
@@ -167,7 +166,7 @@
 
     - A company may pursue retrenchment strategies when it has a weak competitive position in some or all of its product lines, resulting in poor performance -- sales are down and profits are becoming losses
 
-#### Portfolio Strategy -- Portfolio Analysis
+#### 2. Portfolio Strategy -- Portfolio Analysis
 
 - Used to develop corporate strategy in a diversified firm to boost overall corporate performance
 - Framework for charting the different businesses in a firm
@@ -181,7 +180,7 @@
     - Question marks: Low relative share in growing markets / Requires cash for development
       - with uncertain or weak future prospects should be divested
 
-#### Parenting Strategy -- Corporate Parenting
+#### 3. Parenting Strategy -- Corporate Parenting **(?)**
 
 - Views the corporation in terms of resources and capabilities that can be used to build business unit value as well as generate synergies across business units
 - Generates corporate strategy by focusing on core competencies of the parent and on the value created from the relationship between the parent and its businesses
@@ -190,7 +189,7 @@
   - Examine each business unit/product line in terms of areas in which performance can be improved
   - Analyze how well the parent corporation fits with the business unit
 
-#### Functional Strategy
+### Functional Strategy
 
 - Approach taken by a functional area to achieve corporate and business unit objectives and strategies
 - Directed at improving effectiveness of basic operations, such as marketing, R&D, HR, etc.
@@ -200,15 +199,26 @@
 
 # L3 Digital Business Strategy and Alignment
 
+- Key concerns regarding IT strategy
+  - Alignment
+  - Digital disruption/transformation
+  - Key technologies
+
 - Strategic alignment model
 
   ![Screen Shot 2018-10-25 at 3.17.49 pm](./Screen Shot 2018-10-25 at 3.17.49 pm.png)
+
+  1. Strategy Execution
+  2. Technology Potential
+  3. Competitive Potential
+  4. Service Level
 
 - Alignment
   - Business drives IT
   - IT enables Business
   - Triggered by critical developments in information, communications, and connectivity
   - emergence of pervasive digital technologies
+
 - **SMAC stack**
   - Social
     - majority of social media users are now staunch followers of brands
@@ -222,6 +232,7 @@
   - Cloud
     - eliminates the need to invest heavily in hardware, software and infrastructure
     - SaaS reduces costs incurred on expensive data centers.
+
 - **Significant Trends**
   - Big data, AI, Machine Learning
   - Global connectivity
@@ -229,6 +240,7 @@
   - Ability to carry out work across boundaries of time, distance, and function
   - Embedding of products and services in digital technologies
   - Platform models and technologies
+
 - **Digital Business Strategy**
   - Digital business strategy as org. strategy formulated and implemented by leveraging the digital resources to create significant value increase,
     - going beyond individual systems and technologies
@@ -283,7 +295,7 @@
     - Share price movement
 - Business Value
   - An approach for estimating the tangible and intangible worth of organizational assets
-  - An appraisal of intellectual assets such as knowledges, experience, and skills
+  - An appraisal (评价) of intellectual assets such as knowledges, experience, and skills
   - A technique for determining the complete worth of an investment to an enterprise
   - A method of determining the health and well-being of a firm in the long run
   - A set of measures including employee, customer, supplier, alliance, management, and societal value
@@ -330,11 +342,11 @@
   - predict value
   - deliver value
   - share value
-- Conclusion
-  - any IT business case has to seriously understand, track, document, and demonstrate business value
-  - Value measures are diverse and they should be fit-for-purpose
-  - Value needs to be thought thru in terms of longer term strategic benefits and short-term internal measures
-  - Aspects of risk also needs to be addressed
+- **Conclusion**
+  - **any IT business case has to seriously understand, track, document, and demonstrate business value**
+  - **Value measures are diverse and they should be fit-for-purpose**
+  - **Value needs to be thought thru in terms of longer term strategic benefits and short-term internal measures**
+  - **Aspects of risk also needs to be addressed**
 
 # L5 Technological Forecasting
 
@@ -577,9 +589,6 @@
   $$
   Profit = Revenue - Cost
   $$
-
-
-
 
 
 
