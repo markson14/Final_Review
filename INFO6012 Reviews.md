@@ -52,15 +52,20 @@
 
 ### General Strategies
 
-- Corporate Strategies
-  - Directional Strategies
-  - Portfolio Strategies
-  - Parenting Strategies
-- Business Strategies
-  - Competitive Strategies
-  - Cooperative Strategies
-- Functional Strategies
-  - Action plans for each functional area
+1. **Corporate Strategies**
+
+- Directional Strategies
+- Portfolio Strategies
+- Parenting Strategies
+
+2. **Business Strategies**
+
+- Competitive Strategies
+- Cooperative Strategies
+
+3. **Functional Strategies**
+
+- Action plans for each functional area
 
 ### Business Strategy
 
@@ -76,7 +81,7 @@
   - Firm must make a choice
 - **Cooperative**
   - **Working with one or more companies to gain advantage against other competitors**
-  - Collusion
+  - **Collusion (共谋)**
     - the active cooperation of firms within an industry to reduce output and raise prices to avoid economic law of supply and demand
   - **Strategic alliance** –Partnership of two or more corporations to achieve strategically significant objectives that are mutually beneficial
     - When two or more firms agree to cooperate for their mutual benefit
@@ -88,16 +93,14 @@
       - Share risks and expenses
       - Achieve or ensure competitive advantage
   - **Types of alliances**:
-    - Mutual service consortium
-      - **Pooling resources to gain a benefit that is too expensive to develop alone**
-    - Joint venture
-      - **Two or more separate organizations creates an independent business entity**
-        - GE, Intel to form new healthcare joint venture, 2010
-        - Extremely popular in international undertakings
-          - E.g. ChanganFord Automobile. Co., Ltd.
-        - Disadvantages of joint ventures include loos of control, lower profits, probability of conflicts with partners, and the likely transfer of technological advantage to the partner.
-    - Licensing arrangement
-      - **Licensing firm grants rights to another firm to produce / sell a product**
+    - **Mutual service consortium** - Pooling resources to gain a benefit that is too expensive to develop alone
+    - **Joint venture** **(合资企业)** - Two or more separate organizations creates an independent business entity
+      - GE, Intel to form new healthcare joint venture, 2010
+      - Extremely popular in international undertakings
+        - E.g. ChanganFord Automobile. Co., Ltd.
+      - Disadvantages of joint ventures include loos of control, lower profits, probability of conflicts with partners, and the likely transfer of technological advantage to the partner.
+    - **Licensing arrangement** 
+      - Licensing firm grants rights to another firm to produce / sell a product
         - The licensee pays compensation to the licensing firm in return for technical expertise
       - contractual arrangement whereby one organization obtains the rights to use the proprietary technology of another organization
       - benefits for licensees:
@@ -106,8 +109,7 @@
       - benefits for licensors:
         - technology can penetrate a wider market
         - preempt(抢占，防止) competitors from developing their own competing technologies
-    - Value-chain partnership
-      - **long-term arrangement with key supplier or distributor for mutual advantage**
+      - **Value-chain partnership (供应链合作)**- long-term arrangement with key supplier or distributor for mutual advantage
 
 ### Corporate Strategy
 
@@ -575,6 +577,7 @@
   $$
   Profit = Revenue - Cost
   $$
+
 
 
 
