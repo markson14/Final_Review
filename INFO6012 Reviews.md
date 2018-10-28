@@ -16,14 +16,14 @@
 - emphasizes the monitoring and evaluating of external opportunities and threats in light of the organization's strengths and weaknesses
 - includes environmental scanning, strategy formulation, strategy implementation, and evaluation and control
 
-![1539136896726](C:\Users\user\AppData\Roaming\Typora\typora-user-images\1539136896726.png)
+![1539136896726](.\1539136896726.png)
 
 ### IT Strategy
 
 - IT strategy (information technology strategy) is a comprehensive plan that outlines how technology should be used to meet IT and business goals.
 - An IT strategy is typically a written document that details the multiple actions and resource deployments that affect the organization's investment in and use of information technology(eg. Digital strategy)
 
-![1539136945184](C:\Users\user\AppData\Roaming\Typora\typora-user-images\1539136945184.png)
+![1539136945184](.\1539136945184.png)
 
 - key concerns:
   - Most importantly, alignment with business strategy
@@ -189,7 +189,7 @@
   - Examine each business unit/product line in terms of areas in which performance can be improved
   - Analyze how well the parent corporation fits with the business unit
 
-### Functional Strategy
+### Functional Strategy (?)
 
 - Approach taken by a functional area to achieve corporate and business unit objectives and strategies
 - Directed at improving effectiveness of basic operations, such as marketing, R&D, HR, etc.
@@ -369,7 +369,7 @@
   - Extrapolation (预测未来走向) - future is a logical extrapolation of the past
   - Future is too complex to get it right thru statistical and trend analyses - need to rely on expert/human judgment
   - Pattern Analysis
-  - Contrarian
+  - Contrarian (逆势)
 
 - Forecast performance
 
@@ -382,78 +382,78 @@
   - Trend extrapolation
     - Extension of present trends into the future
     - Assumes that the world is consistent and changes slowly
+
   - Judgmental/intuitive methods
     - Knowledgeable people propose ideas
+
       - Delphi Method/Expert opinion
+
+        1. involves asking a group of experts to provide forecasts and projections and their comments and rationale
+
+        2. The forecasts and comments are circulated among all the experts for a second round and asked if they would like to revise their forecasts and comments based on the inputs
+
+        3. This process can continue for a few rounds until some kind of **consensus** emerges – possible convergence
+
+        - advantage:
+          - Anonymity, reduce the effects of groupthink
+          - relatively cheap
+          - does not require the experts to meet physically
+          - can address a variety of topics
+          - can develop a reasonable sense of the rationale behind the forecasts
     - Experts attempt to forecast likely developments
+
   - Statistical modelling
+
     - Discover causal or explanatory factors
+
   - Scenario Planning
 
-- **Delphi Method**
+    - it is a method of **preparing** for the future regardless of what happens. But **NOT** a method for predicting the future. Enable better decisions making.
 
-  - involves asking a group of experts to provide forecasts and projections and their comments and rationale
+    - When
 
-  - The forecasts and comments are circulated among all the experts for a second round and asked if they would like to revise their forecasts and comments based on the inputs
+      - Uncertainty is high
+      - Too many costly surprises occurred in the past
+      - Few new opportunities exist
+      - Significant change occurred in industry or will occur
+      - Strong differences of opinion exist concerning the future
 
-  - This process can continue for a few rounds until some kind of consensus emerges – possible convergence
+    - How
 
-  - advantage:
+      - stage 1: Key focal issue
 
-    - Anonymity, reduce the effects of groupthink
-    - relatively cheap
-    - does not require the experts to meet physically
-    - can address a variety of topics
+        - identify a focal(焦点) issue
+        - Set time frame
+        - set scope of analysis (in terms of products,markets,geographic areas and technologies)
 
-    - can develop a reasonable sense of the rationale behind the forecasts
+      - stage 2: Driving forces identification
 
-- Scenario Planning
+        - major categories of drivers
+          - social
+          - economic
+          - political
+          - technology
 
-  - it is a method of **preparing** for the future regardless of what happens. But **NOT** a method for predicting the future. Enable better decisions making.
+      - stage 3: Scenario Framework
 
-  - When
+        - Construct scenarios
+          - Select two most important uncertainties
+        - Check for consistency and plausibility
+          - Must be very low correlation between pair of uncertainties
 
-    - Uncertainty is high
-    - Too many costly surprises occurred in the past
-    - Few new opportunities exist
-    - Significant change occurred in industry or will occur
-    - Strong differences of opinion exist concerning the future
+        ![Capture](C:\Users\user\Desktop\Capture.PNG)
 
-  - How
+      - stage 4: From scenarios to options
 
-    - stage 1: Key focal issue
+        - develop implications
+          - return to the key focal issue
+          - place the organization within each scenario
+          - identify strengths and vulnerabilities
+        - develop options
+          - to address gaps in capabilities
+          - further research requirements, necessary actions
+          - critical decisions and choices
 
-      - identify a focal(焦点) issue
-      - Set time frame
-      - set scope of analysis (in terms of products,markets,geographic areas and technologies)
-
-    - stage 2: Driving forces identification
-
-      - major categories of drivers
-        - social
-        - economic
-        - political
-        - technology
-
-    - stage 3: Scenario Framework
-
-      - Construct scenarios
-        - Select two most important uncertainties
-      - Check for consistency and plausibility
-        - Must be very low correlation between pair of uncertainties
-
-      ![Capture](C:\Users\user\Desktop\Capture.PNG)
-
-    - stage 4: From scenarios to options
-
-      - develop implications
-        - return to the key focal issue
-        - place the organization within each scenario
-        - identify strengths and vulnerabilities
-      - develop options
-        - to address gaps in capabilities
-        - further research requirements, necessary actions
-        - critical decisions and choices
 
 # L6 Technology Adoption and Diffusion
 
@@ -476,6 +476,9 @@
     - late market
       - laggards
 
+
+![1](.\1.PNG)
+
 - Crossing the Chasm
 
   - transition to the majority of the market
@@ -497,7 +500,7 @@
 
 - information diffusion models
 
-  - **diffusion** is the rate at which a new tech product becomes adopted by potential users
+  - **Diffusion** is the rate at which a new tech product becomes adopted by potential users
   - the functional form of diffusion is primarily a result of the distribution of innovators and imitators
     - innovators
     - imitators: 模仿者
@@ -535,7 +538,7 @@
 # L7 Platform Strategy
 
 - platform: to characterize product, services, firm or institutions that mediate transaction between two or more group of agent
-- digital platform
+- **Digital platform**
   - enablers
     - the evolution of the internet
     - connecting tech
@@ -549,10 +552,13 @@
     - internal
       - providers: interfaces for the platform
       - owner
-- “pipeline” business
+- **“pipeline” business**
   - create value by controlling a linear series of activities – the classic value-chain model. inputs at one end of the chain undergo a series of steps that transform them into an output that’s worth more: the finished products
+
+![2](.\2.PNG)
+
 - from pipeline to platform
-  - from resource control to resource orchestration
+  - from resource control to resource orchestration(资源编排)
   - from internal optimization to external interaction
   - from a focus on customer value to a focus on ecosystem value
 - competitive threats for platform business
@@ -593,8 +599,8 @@
 
 
 - Why Industries Display Increasing Returns
-  - They have high up-front costs and low marginal costs
-    - Unit costs drop dramatically as volume increases
+  - They have high up-front costs (前期成本) and low marginal costs
+    - Unit costs drop dramatically as volume increases (价格随数量上升而下降)
   - Producer learning is high
     - When learning curves are steep, firms increase their efficiency at producing and selling products as they make/market more units.
   - Network externalities
@@ -609,38 +615,43 @@
       - e.g. Video game console; DVD player
       - more apps –> more value for customers –> more customers –> more value for developers –> more apps
 
-  - **Two-sided network**
+  - **Two-sided network (?)**
 
     ![Screen Shot 2018-10-25 at 3.45.42 pm](./Screen Shot 2018-10-25 at 3.45.42 pm.png)
 
     - a **same-side** effect for each side: preference regarding number of other users on own side
     - a **cross-side** effect in each direction: preference regarding number of users on other side
 - **Strategy for Increasing Returns**
-  - Build a large installed base quickly	
-    - Firms in increasing return industries need to build a large installed base, the number of current users of a product or service, quickly
-      - Because customer adoption decisions are affected by the size of the installed base
-    - A large installed base
-      - Helps to make the product the industry standard, which gives long-lasting leverage over other firms in the value chain
-      - Makes the product more attractive to the providers of complementary products
-      - Pushes the company down the learning curve
-      - Improves the economics of developing new technologies
-      - Will keep out competition by creating a positive feedback loop that is hard for competitors to break
-    - How to build
-      - Penetration pricing: comes at risk of lack of profitability
-      - Bundling the product with other products that are already popular with customers
-      - Targeting the mass market from the start
-  - Get Customers to Ignore lock-in
-    - Customers lock-in occurs when customers view the costs of switching suppliers as too high to justify doing so
-    - How
-      - Offer customers their money back if they are unhappy with the product or service (7天包退)
-      - **razor-razor blade model**
-        - Create a unique system, composed of a base product and additional components that are not compatible with competitor’s base product
-        - Sell the base product at cost and the components at a high margin
-  - Be a first mover
-    - Because the likelihood of new customer adoption increases with the size of the installed base
-    - Getting to market quickly is more important than having superior technology
-      - Because customers will not switch to superior technology if the inferior technology has already been adopted by a large installed base
-    - Contracting, rather than owning the different parts of the value chain, facilitates getting to market quickly
+  1. **Build a large installed base quickly**	
+
+  - Firms in increasing return industries need to build a large installed base, the number of current users of a product or service, quickly
+    - Because customer adoption decisions are affected by the size of the installed base
+  - A large installed base
+    - Helps to make the product the industry standard, which gives long-lasting leverage over other firms in the value chain
+    - Makes the product more attractive to the providers of complementary products
+    - Pushes the company down the learning curve
+    - Improves the economics of developing new technologies
+    - Will keep out competition by creating a positive feedback loop that is hard for competitors to break
+  - How to build
+    - Penetration pricing: comes at risk of lack of profitability
+    - Bundling the product with other products that are already popular with customers
+    - Targeting the mass market from the start
+
+  2. **Get Customers to Ignore lock-in**
+
+  - Customers lock-in occurs when customers view the costs of switching suppliers as too high to justify doing so
+  - How
+    - Offer customers their money back if they are unhappy with the product or service (7天包退)
+    - **razor-razor blade model (?)**
+      - Create a unique system, composed of a base product and additional components that are not compatible with competitor’s base product
+      - Sell the base product at cost and the components at a high margin
+
+  3. **Be a first mover**
+
+  - Because the likelihood of new customer adoption increases with the size of the installed base
+  - Getting to market quickly is more important than having superior technology
+    - Because customers will not switch to superior technology if the inferior technology has already been adopted by a large installed base
+  - Contracting, rather than owning the different parts of the value chain, facilitates getting to market quickly
 - Limitation to a Strategy Based on Increasing returns
   - Have to evaluate whether increasing returns are really present in the industry before setting strategy
     - In some cases, network effects may only apply below a certain “critical mass” of customers; once this number has been reached, increases in network size may no longer create additional value for customers, so returns might not increase with network size
@@ -650,14 +661,15 @@
   - Specifications to ensure that different components of the same system are compatible
   - Permit independent companies to produce different components for the same product
   - Technical standards are of particular importance to start-up firms, which generally cannot, due to capital, produce all of the components needed to make a product
-  - Technical standards develop because:
+  - Technical standards **develop** because:
     - Of chance occurrence
     - Some technical solutions are better than others
     - Governments mandate them
     - Industry trade associations or standards-setting bodies establish them
     - Companies take strategic action
   - Industries sometimes converge on standards that are technically inferior to other alternative
-    - Often because a technology achieves a large installed base and the cost to change is too high
+
+    - Often because a technology achieves a **large installed base** and the **cost to change is too high**
   - Technical standards influence customer adoption because:
     - Customers don’t want to adopt products that might be abandoned or discontinued
     - Customers desire compatibility, particularly for systemic products
@@ -665,11 +677,15 @@
     - They facilitate the creation of complementary products
   - How to Win a Standards Battle
     - To win a standards battle, companies may
-      - Gain the support of producers of complementary products
-        - Have a complementary “killer application” making one technology much more attractive than another
-      - Make the product backward compatible so that it works with a previous generation of products (向下兼容)
-      - Manage customer and competitor expectations
-        - Through pronouncements and preannouncements
+      1. Gain the support of producers of complementary products
+
+      - Have a complementary “killer application” making one technology much more attractive than another
+
+      2. Make the product backward compatible so that it works with a previous generation of products (向下兼容)
+
+      3. Manage customer and competitor expectations
+
+      - Through pronouncements and preannouncements
 
 # L10 IT Investment and Strategic Outsourcing
 
@@ -681,38 +697,39 @@
     - taking over 180 per cent of target time to deliver (完成时间需要1.8倍于预计时间)
 
 - Irrational decisions on IT investment
-  - Factor 1: Path Dependence
-    - **Path dependence** explains how the decision one faces is limited by the decision one has made in the pat, even though past circumstances may no longer be relevant
+  - **Factor 1: Path Dependence**
+    - **Path dependence** explains how the decision one faces is limited by the decision one has made in the past, even though past circumstances may no longer be relevant (受历史因素影响或限制)
       - It is easier or more cost effective to simply continue along an already set path than to create an entirely new one
       - E.g. QWERTY vs. Dvorak keyboard
-    - Organizations tend to continually invest in the same type of IT assets
+    - Organizations tend to continually invest in the same type of IT assets 
       - competency building
       - hardware and software compatibility
       - switching costs
     - Negative effects in the long term
-      - technological lock-in
+      - technological lock-in (技术受限)
       - no exploration of new IT or innovative use of existing IT
-  - Factor 2: Time-lagged effect
+  - **Factor 2: Time-lagged effect**
     - The effect lag is the amount of time between the time action is taken and an effect is realized
     - IT investments yield time-lagged effects, therefore, their impact might not be immediately evident in contemporaneous financial measures
     - Time lag of IT investments:
       - Allocation -> Adoption-> Usage -> Appropriation
     - Compared to R&D investment, HR investment, IT investment takes longer to be paid off
-    - Traditional financial measures
-      - ROI
-      - ROA (Returns on asset)
-      - Net margin
-      - Tobin’s Q
-    - Non-financial measures
-      - Operational efficiency: by the cost of goods sold
-      - Product innovation: By the number of new and modified products introduced
-      - Employee work satisfaction
-      - Industrial recognition
+    - Measurements:
+      - **Traditional financial measures**
+        - ROI
+        - ROA (Returns on asset)
+        - Net margin
+        - Tobin’s Q
+      - **Non-financial measures**
+        - Operational efficiency: by the cost of goods sold
+        - Product innovation: By the number of new and modified products introduced
+        - Employee work satisfaction
+        - Industrial recognition
     - Impacts of IT investment reflect **faster** in non-financial measures than financial measures
     - Evaluating IT investment (L12)
       - impacts in the long term
       - both financial and non-financial measures
-  - Factor 3: Institutional Information Asymmetry
+  - **Factor 3: Institutional Information Asymmetry**
     - Prisoner’s dilemma: is based on the game theory and used to understand the balance between competition and cooperation
     - Managerial dilemma of investment in a particular IT
     - It is most likely that both companies will invest
@@ -724,7 +741,7 @@
       - E.g. ERP,EDI,healthcare systems
     - In determining an appropriate business strategy, it is not sufficient to look at a static view of your competitors, you also need to take into account what their response will be to your strategy
     - Business is like a Game
-      - Encourages an organization to consider competitors’ likely moves and the implications of these moves for tis own strategy
+      - Encourages an organization to consider competitors’ likely moves and the implications of these moves for its own strategy
       - Offers organizations ways to influence the behavior its rivals and hence change the market to maximize profits.
       - It helps resolve situations where all participants are trying to influence, outguess, and adapt to the decisions of each other.
       - Assists simultaneous cooperation and competition
@@ -732,7 +749,7 @@
         - Look forward and reason backwards!
         - Put yourself in the head of the competitor
 - A portfolio approach on IT investment
-  - A portfolios a collection of assets held by an investor
+  - A portfolios is a collection of assets held by an investor
   - IT portfolio management is an increasingly common way to help management teams match IT investments to strategic objectives
   - A study of more than 300 enterprises in 23 countries found that faster-growing and more agile firms such as 7-11 Japan, United Parcel Service (UPS) and ING Direct all had a portfolio approach to IT investment.
 - Four dimensions of IT investment
@@ -770,132 +787,104 @@
     - Total outsourcing: outsourcing an entire activity to a supplier
     - Selective outsourcing: outsourcing only part of an activity and performing the rest of the activity in-house
   - Which IT service to outsource
-    - IT services that are unique to a company and provide it with significant competitive advantages over competitors
+    - IT services that are unique to a company and provide it with significant competitive advantages over competitors (具有竞争力的不外包)
       - Tend not to be outsourced
       - Not to vendors that are trying to sell similar services to all their customers
-    - Commodity-like IT services, the priorities are reliability and low cost
+    - Commodity-like IT services, the priorities are reliability and low cost (简单便宜的服务外包)
       - Tend to be outsourced if the vendors can provide reliable and low cost
   - General Outsourcing decisions
     - purchasing services or products from another party
-  - offshore outsourcing (海外外包)
-  - nearshore outsourcing (邻国外包)
-  - onshore or domestic outsourcing (本地外包)
-  - cloud computing
-    - SAAS model
-      - delivering applications over the internet as a service
-      - manage fluctuating demands efficiently
-      - rent it capabilities as needed
-  - managed services (network management functions e.g. VPN)
+
+  1. offshore outsourcing (海外外包)
+
+  2. nearshore outsourcing (邻国外包)
+
+  3. onshore or domestic outsourcing (本地外包)
+
+  4. cloud computing
+
+     - SAAS model
+       - delivering applications over the internet as a service
+       - manage fluctuating demands efficiently
+       - rent it capabilities as needed
+
+     - managed services (network management functions e.g. VPN)
 
 # L11 IT strategy implementation
 
-- Strategy Implementation
-  - Process by which the IT strategy that has already been developed is actually executed or put into action
-  - Strategy implementation even more important than formulation
-  - Strategy implementation as competitive advantage (implementation as key)
-    - Successful execution of strong and robust strategies gives any organisation a significant competitive edge
-    - In current turbulent environments, the ability to develop and execute new strategies quickly and effectively may be the difference between success and failure for organisations
-    - Well-formulated strategies only produce superior performance for organisations when they are successfully executed
-    - Even the best-made strategies are worthless if they are not executed successfully
-  - Most strategy implementations fail (implementation as failure)
-    - Fewer than 15 percent of organisations around the world report that they are successful at strategy implementation
-    - Various studies have reported strategy implementation failure rates at 60 to 90 percent
-    - The majority of strategies fail in the strategy implementation phase
-    - Many organisations have a fundamental disconnect between the formulation of their strategy and the implementation of that strategy into useful action
-  - Why does IT strategy implementation fail so often
-    - Failure to achieve the necessary level of buy-in from all the relevant stakeholders
-    - Failure to create the necessary conditions for the implementation; managing the change as the implementation work progresses
-    - Need to pay careful attention to the strategy execution process, content, and context
-  - What must be done
-    - Develop a clear plan to implementation strategies
-    - Develop an implementation plan and a budget
-    - Monitor the plan periodically
-    - Develop processes and procedures that detail the activities to be carried out as part of the implementation
-    - Create necessary organisational units such as steering committees and project teams with suitable and accountable leadership
-  - Develop a clear and attractive vision
-    - Successful strategy formulation and implementation begins with developing a sound and clear strategic vision
-    - The strategic vision describes the desired future state of the organisation and clarifies the direction in which an organisation is to move
-    - The strategic vision needs to be attractive and easy to communicate to organisational members, customers and other stakeholders
-    - A clear and attractive strategic vision increase the confidence of employees in a successful outcome of the implementation effort
-  - The organisation needs a clear and sound IT strategy in the first place
-    - Clear statement of what the strategy seeks to achieve and how the digital resources are to be deployed
-    - Senior management buy-in
-    - Needs to be realistic and adequately resourced
-    - Effective communication leading to shared understanding of the IT strategy among managers and key employees at all levels and other stakeholders
-  - Communicate the strategy
-    - No less than 95 percent of employees do not understand the strategy of their own organisation
-    - The objective is to make employees understand what the strategy is all about and what its goals are
-    - The strategy needs to be clearly explained in a way that employees understand and may become convinced that the strategy is sound and effective
-    - Employees are more accepting of undesirable decisions when they receive clear and adequate explanations for those decisions. This is called procedural justice
-    - Not only is it important to communicate the strategy to the people but also to listen their reactions to the strategy
-  - Employee Involvement
-    - Involve employees and stakeholders
-      - Participation allows management to tap into the specialised knowledge of lower-level employees. This can improve the strategy and its execution
-      - A strategy formulated without much employee involvement is more likely to have major flaws
-      - Involving managers, employees, customers and external stakeholders increases the communication, commitment and execution of the strategy
-      - A strategy that is developed and implemented without the involvement of relevant employees is likely to be resisted during implementation by the affected employees
-      - When employees feel that they have significant input in the strategy they tend to be very committed to that strategy
-    - Train and develop employees
-      - Successful organisations place high importance on training and developing their staff
-      - Adequately trained staff is one of the most critical steps top management can take to ensure successful strategy execution
-      - Executing a new strategy often requires new activities and ways of thinking, which can be learned by training and educating employees
-      - Training and education improves employee knowledge, skills, and self-confidence and makes them perform better
-      - Training and education can consist of courses, collective classes, training, and individual guidance and coaching
-    - Align structure to startegy
-      - Design a clear and decentralised organisation structure that is aligned to the strategy
-      - A decentralised structure increases commitment of employees to decision-making, speed of decision-making, and improves the quality of decisions using specialised knowledge of employees at lower levels in the organization
-      - Individuals working in centralized organisations tend to feel that management does not trust their skills and abilities resulting in a sense of incompetence, reducing self-determination and intrinsic motivation and performance
-      - Design a clear structure with clear procedures, rules and responsibilities that gives employees certainty during the execution
-    - Create a safe and innovative culture
-      - A new strategy involving layoffs triggers intense emotions such as anxiety and fear for job security among organisational members
-      - Job insecurity lowers job satisfaction, strategy commitment, job involvement, trust in management and work effort and increases psychological withdrawal, resistance to change and the propensity to leave the organization
-      - Many organisations have a culture of fear in which employees are afraid to lose their job or to be treated harshly by their superiors
-      - Highly centralised and formalised structures with rigid rules create a fear for making mistakes, responsibility, participation and change, acting as major barriers to strategy implementation
-      - Cultivate a fearless culture in which employees dare to take initiative, voice their opinion and are not afraid to make mistakes
-  - Resistance to change
-    - Take political interests into account
-      - Strategic change inevitably raises questions of power within an organization
-      - The very prospect of organisational change confronts established positions and may lead to resistance to change
-      -  Politics and struggles over power and leadership undermine a strategy execution effort
-      - Resistance to change many lead to passivity toward the strategy and its execution or even sabotage
-      - Overcome resistance to change by involving potential opponents in decision-making, taking their interests seriously, clearly communicating the new strategy to them and confronting dissidents
-  - Culture and strategy
-    - Culture can affect a company's ability to implement a new strategy
-    - When implementing a new strategy, a company should consider the strategy-culture compatibility
-    - Communication is key to effective management of cultural change
-  - Reward system
-    - Build a reward system that monitors the process of the execution and demonstrates top management's commitment to the realisation of the strategy
-    - Reward systems are essential for motivating staff and ensuring appropriate behaviour in relation to the strategy
-    - Rewarding execution performance increase the motivation, commitment and performance of organisational members
-    - Informal rewards greatly increase greatly increase the motivation, self-confidence and performance of organisational members
-    - Employees often do not get compliments when performing well but do get criticism for making mistakes. This reduces motivation self-efficacy and performance
-  - Critical factors in IT strategy implementation
-    1. Appoint competent management
-    2. Use people management skills
-    3. Deal with political behavior
-    4. Develop and execution plan
-    5. Align strategy and structure
-    6. Create a fearless culture
-    7. Provide leadership
-    8. Communicate the strategy
-    9. Monitor and adapt the execution
-  - Recommendations for managing changes
-    - Get support and commitment from top management
-    - Involve as many people as possible 
-    - Make constant change an expected part of the culture
-    - Tell everyone as much as possible about everything as often as possible
-    - Make liberal use of financial incentives and recognition
-    - Work within the company culture but changes to the culture may be needed at times
+- **Process by which the IT strategy that has already been developed is actually executed or put into action**
+- Strategy implementation even more important than formulation
+- Strategy implementation as competitive advantage (implementation as key)
+  - Successful execution of strong and robust strategies gives any organisation a significant competitive edge
+  - In current turbulent environments, the ability to develop and execute new strategies quickly and effectively may be the difference between success and failure for organisations
+  - Well-formulated strategies only produce superior performance for organizations when they are successfully executed
+  - Even the best-made strategies are worthless if they are not executed successfully
+- Why does IT strategy implementation fail so often
+  1. Failure to achieve the necessary level of buy-in from all the relevant stakeholders
+
+  2. Failure to create the necessary conditions for the implementation; managing the change as the implementation work progresses
+
+  3. Need to pay careful attention to the strategy execution process, content, and context
+- **What must be done**
+
+  1. Develop a clear plan to implementation strategies
+
+  2. Develop an implementation plan and a budget
+
+  3. Monitor the plan periodically
+
+  4. Develop processes and procedures that detail the activities to be carried out as part of the implementation
+
+  5. Create necessary organizational units such as steering committees and project teams with suitable and accountable leadership
+- Develop a clear and attractive vision
+  - Successful strategy formulation and implementation begins with developing a sound and clear strategic vision (容易理解和清晰的目标与决策，符合现状)
+  - The strategic vision describes the desired future state of the organization and clarifies the direction in which an organization is to move (满足未来的发展趋势)
+  - The strategic vision needs to be attractive and easy to communicate to organizational members, customers and other stakeholders (容易与他人交流)
+  - A clear and attractive strategic vision increase the confidence of employees in a successful outcome of the implementation effort (增加自信)
+- **Employee Involvement**
+
+  - Involve managers, employees, customers and external stakeholders
+  - Train and develop employees
+  - Align decentralized structure to strategy to increase employees’ decision-making
+  - Create a safe and innovative culture to encourage employees’ to say their voice and opinions
+- Resistance to change
+  - Take political interests into account
+    1. Strategic change inevitably raises questions of power within an organization
+    2. The very prospect of organizational change confronts established positions and may lead to resistance to change
+    3. Politics and struggles over power and leadership undermine a strategy execution effort
+    4. Resistance to change many lead to passivity toward the strategy and its execution or even sabotage
+    5. Overcome resistance to change by involving potential opponents in decision-making, taking their interests seriously, clearly communicating the new strategy to them and confronting dissidents
+- Culture and strategy
+  - Culture can affect a company's ability to implement a new strategy
+  - When implementing a new strategy, a company should consider the strategy-culture compatibility
+  - Communication is key to effective management of cultural change
+- Reward system
+  1. Build a reward system that monitors the process of the execution and demonstrates top management's commitment to the realization of the strategy (监管)
+  2. Reward systems are essential for motivating staff and ensuring appropriate behavior in relation to the strategy (重要一环)
+  3. Rewarding execution performance increase the motivation, commitment and performance of organizational members (正式的奖励增加动力，提高质量)
+  4. Informal rewards greatly increase greatly increase the motivation, self-confidence and performance of organizational members (非正式奖励更能大大提高动力，自信)
+  5. Employees often do not get compliments when performing well but do get criticism for making mistakes. This reduces motivation self-efficacy and performance (缺乏奖赏容易导致效率和质量低下)
+- Critical factors in IT strategy implementation
+  1. Competent management (挑选才有能的管理)
+  2. People Skills
+  3. Political Interests
+  4. Execution Plan
+  5. Structure
+  6. Culture
+  7. Leadership
+  8. Strategy Communication
+  9. Monitor and Control
+- Recommendations for managing changes
+  1. Get support and commitment from top management
+  2. Involve as many people as possible 
+  3. Make constant change an expected part of the culture
+  4. Tell everyone as much as possible about everything as often as possible
+  5. Make liberal use of financial incentives and recognition (财政激励, reward sys)
+  6. Work within the company culture but changes to the culture may be needed at times
 
 # L12 strategy evaluation and control
 
 - Evaluation and Control
-
-  - Process in which corporate activities and performance results are monitored 
-  - Ensures that the firm is achieving what it set out to accomplish 
-  - Compares performance with desired results 
-  -  Provides feedback to evaluate results 
-  - Takes corrective action if necessary 
 
   ![Screen Shot 2018-10-25 at 1.59.21 pm](./Screen Shot 2018-10-25 at 1.59.21 pm.png)
 
@@ -919,11 +908,11 @@
 
     - Confusion of means with ends 
 
-    - Behaviour substitution – Wrong activities are being rewarded 
+    - Behavior substitution – Wrong activities are being rewarded 
 
     - Suboptimization – A unit optimizes its goal accomplishment to the detriment of the organization as a whole
 
-- Leading and Lagging indicators
+- Leading and Lagging indicators (指标)
 
   - Leading indicators - An indicator that predicts future events and tend to change ahead of that event. Sometimes used as a predictor. 
   - Lagging indicators - follow an event
@@ -935,11 +924,6 @@
     - Balances short and long-term measures 
     - Balances performance drivers (leading indicators) with outcome measures (lagging indicators) 
     - Leads to strategic focus and organizational alignment 
-  - Use of balanced scorecard in organization
-    - It is suggested that over 50% of large US firms have adopted the BSC. 
-    - More than half of major companies in the Europe and Asia are using balanced scorecard approaches, with use growing in those areas as well as in the Middle East and Africa. 
-    - A recent global survey of 1,208 executives by Bain & Co listed balanced scorecard fifth on its top ten most widely used management tools around the world, a list that includes closely-related strategic planning at number one. 
-    - Balanced scorecard has also been selected by the editors of Harvard Business Review as one of the most influential business ideas of the past 75 years. 
   - Four perspectives:
     - financial
       - survive
@@ -959,24 +943,29 @@
       - Manufacturing learning
       - Product focus
       - Time to market
-  - User of balanced scorecard in organization
-    - Balanced scorecard brings together, in a single management report, many of the seemingly disparate elements of a company’s competitive agenda 
-      - becoming customer oriented, shortening response time, improving quality, emphasizing teamwork, reducing new product launch times 
-    - Balanced scorecard forces managers to consider all the operational measures together, lets them see whether improvement in one area may have been achieved at the expense of another 
+  - Financial perspective
+    - Limitations:
+      1. Well-documented inadequacies
+      2. backward-looking focus
+      3. Inability to reflect contemporary value - creating actions
+      4. Do not improve customer satisfaction, quality, cycle, and employee motivation
+      5. result of operational actions, and financial success
+    - Advantages:
+      1. enhance rather than inhibit an organization’s total quality management program
+      2. alleged linkage between improved operating performance and financial success is actually quite tenuous and uncertain
 
 - IT Scorecard
 
-  - User orientation
-  - Business contribution
-  - Operational excellence
-  - Future orientation
+  1. User orientation
+  2. Business contribution
+  3. Operational excellence
+  4. Future orientation
 
-- Pratical recommendations
-
-  - Every measure is part of a chain of cause and effect linkages
-  - A balance exists between outcome measures and the performance drivers or desired outcomes
-  - Start simultaneously constructing a business and IT scorecard
-  - Consider the scorecard technique as a supportive mechanism for IT/business alignment and IT governance
+  - Practical recommendations
+    1. Every measure is part of a chain of cause and effect linkages
+    2. A balance exists between outcome measures and the performance drivers or desired outcomes
+    3. Start simultaneously constructing a business and IT scorecard
+    4. Consider the scorecard technique as a supportive mechanism for IT/business alignment and IT governance
 
 
 
