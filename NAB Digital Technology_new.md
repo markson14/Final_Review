@@ -12,9 +12,11 @@ In those two years, NAB was focusing on integrating their digital platform and p
 
 ####  Big Data
 
-In 2015, NAB roll out a robo advisers, which is a online computer-generated advice platform, to help to achieve the real-time response (Conroy, 2015). It can provide personalized tips on super and insurance, with NAB planning to expand the product to cover debt, cash flow, investments and estate planning. To in line with customers’ current state and activate the relationship between customer and bank adviser, robo advisers are able to provide extensive business service support. In this case, robo advisers can optimize the labor resources and also provides more detailed and persuasive services support to their customers. 
+In 2015, NAB roll out a robo advisers, which is an online computer-generated advice platform, to help to achieve the real-time response (Conroy, 2015). It can provide personalized tips on super and insurance, with NAB planning to expand the product to cover debt, cash flow, investments and estate planning. To in line with customers’ current state and activate the relationship between customer and bank adviser, robo advisers are able to provide extensive business service support. In this case, robo advisers can optimize the labor resources and also provides more detailed and persuasive services support to their customers. 
 
+In 2016, NAB launched the QuickBiz Loan which is using machine learning algorithm for automated business lending to new small business. By using big data analytic technology, it can deliver smoother and better customer experience as it doesn't require customer to provide any extra information.
 
+AI and Big Data are currently the hottest topics both in research and industry. It is worth spending capital on it for the sake of business automation. According to Mr Thorburn, NAB is taking advantages of AI and cloud. It is going to deliver $1 billion cost savings from increasingly intelligent automation. Intelligent services are more reliable than human decision making due to the large amount of data analysis. In future banking industry, AI would play a very imperative role since it is able to discover the hidden value among the data which may worth billions.
 
 #### Strategic Collaborations
 
@@ -26,9 +28,7 @@ Nowadays, people are spending lots of time on social media and social media gene
 
 In 2018, NAB has begun a trial on AI-powered facial recognition ATMs and it has been demonstrated at the SIBOS conference in Sydney. It enable the customers to withdraw cash without a card or a phone (Smith, 2018). The ATM integrating with Microsoft’s Azure cloud platform, along with its face recognition service. NAB hopes to change the way people use ATMs and build up a faster and efficient way of this service. This approach can be also against the fraudulent user of stolen cards and card skimming. The security level would increase to the next level if the AI facial recognition technology is able to excellence and perfect itself. 
 
-Even though it is a trial, we are able to see the future of ATMs banking. AI is currently everywhere around the world. To make us, NAB would benefit from it by increasing its banking efficiency and effectiveness in their daily routines. It can reduce the cost in the long run by automating the banking services. This new and cutting-edge technology would able to increasing its competitiveness and has potentials to outperform the others in banking industry.
-
-
+Even though it is a trial, we are able to see the future of ATMs banking. As I mentioned above, AI is currently everywhere around the world. To make us, NAB would benefit from it by increasing its banking efficiency and effectiveness in their daily routines. It can reduce the cost in the long run by automating the banking services. This new and cutting-edge technology would able to increasing its competitiveness and has potentials to outperform the others in banking industry.
 
 ### Reference
 
@@ -36,11 +36,17 @@ Boyd, T. (2017, November 10). Chanticleer's Chook Roast. Retrieved from https://
 
 Conroy, J. (2015). NAB to use ‘robo advisers’ - The Australian. Retrieved from https://www.theaustralian.com.au/business/latest/nab-to-use-robo-advisers/news-story/190211b1c1de86386d12d307eea2736d
 
+NAB enters SME online lending market with launch of QuickBiz Loans. (2016, June 02). Retrieved from https://www.smartcompany.com.au/finance/funding/nab-enters-sme-online-lending-market-with-launch-of-quickbiz-loan/
+
 O'Brien, J., & CMO. (2014). How NAB uses data insights to personalise real-time customer moments. Retrieved from https://www.cmo.com.au/article/641708/how-nab-uses-data-insights-personalise-real-time-customer-moments/
+
+Smith, P. (2018, August 13). NAB looks to cloud power as it enters AI era. Retrieved from https://www.afr.com/technology/cloud-computing/nab-looks-to-cloud-power-as-it-enters-the-ai-era-20180812-h13v56
 
 Smith, P. (2013, June 24). NAB opens digital wallet and takes aim at CBA's Kaching. Retrieved from https://www.afr.com/technology/enterprise-it/nab-opens-digital-wallet-and-takes-aim-at-cbas-kaching-20130624-jhixp
 
 Smith, P. (2018, October 22). NAB trials AI-powered facial recognition ATMs. Retrieved from https://www.afr.com/technology/nab-trials-aipowered-facial-recognition-atms-20181018-h16sye
+
+
 
 
 
