@@ -9,9 +9,7 @@ Understanding IT Innovation
     -   Fagerberg: Invention is the first occurrence of an idea for a new product or process, while innovation is the first attempt to carry it out into practice.
 
     -   OECD: Innovation is the implementation of a new or significantly improved product (good or service), process, new marketing method or a new organisational method in business practices, workplace organisation or external relations.
-
 -   Innovation is more than creative ideas -- it's the implementation of those ideas with resources and expertise that make it possible to embody the idea in a useful form (new business / device / process / product).
-
 -   Importance of Innovation:
 
     -   **Creative disruption - waves that restructure entire industries and markets in favour of those who grasp and adapt to technological changes faster**
@@ -19,9 +17,7 @@ Understanding IT Innovation
     -   Schumpeter: the opening up of new markets\... and the organizational development \... illustrate the same process of industrial mutation, that incessantly \[constantly\] revolutionizes the economic structure from within, incessantly destroying the old one, incessantly creating a new one
 
     -   innovative cutting-edge firms (and their business models) enter markets and disrupt them forcing less productive models out
-
 -   **IT is an enabling technology** -- it spreads to most sectors, continually improves in usefulness and lowers in cost and spawns innovation in other areas making it easier to develop new products, processes or services. For example, Uber would not exist without the smartphone.
-
 -   Importance of technological innovation:
 
     -   Importance to a country:
@@ -53,10 +49,10 @@ Understanding IT Innovation
         -   three components of the innovation system -- **networks, innovation activities, framework conditions**
 
         -   Collectively function to produce and diffuse innovations that have, in aggregate, economic, social and/or environmental value
-
 -   Innovating businesses - includes businesses that introduced at least one type of innovation during the reference period
-
 -   Innovation-active businesses - includes businesses that undertook any innovative activity irrespective of whether the innovation was introduced, still in development or abandoned during the reference period\`
+-   **Tutorial 1: Importance of Innovation to a Country **
+    -   
 
 # L2: Technological Innovations
 
@@ -79,9 +75,7 @@ Understanding IT Innovation
         -   Amazon Go in retail
 
         -   MOOCs in education (peer assessment, automatic grading, proctoring exams -- someone watches on webcam and monitors exam)
-
--   IT innovation as creative destruction:
-
+-   **IT innovation as creative destruction:**
     -   **IT has enabled creative destruction** -- 41/500 companies are IT-based -- digital is the main reason over half of companies on the fortune 500 have disappeared
 
     -   Business being run on software -- businesses build around software (SaaS) -- software innovation is key in many industries
@@ -95,9 +89,7 @@ Understanding IT Innovation
         -   Music: Apple, Spotify, Pandora \> Sony, etc.
 
         -   Direct marketing: Google
-
--   Types and sources of innovation:
-
+-   **Types and sources of innovation:**
     -   Different dimensions:
 
         -   What type of thing is being innovated? -- **product vs process vs business** **model**
@@ -173,13 +165,13 @@ Understanding IT Innovation
         -   Innovations render a firm's existing competencies obsolete
 
             -   Kodak invented the first digital camera -- but they struggled to make the transition from analogue film to digital photography as most of their competence related to analogue film (rather than micro-electronics)
-
             -   Depends on the perspective of a particular firm -- digital cameras were not competence-destroying for Sony or Canon as they already had microelectronics expertise.
+-   **Tutorial 2: Importance of IT innovation in the Edu**
+    -   MOOCs
 
 # L3: Industry Dynamics
 
--   Diffusion of Innovations:
-
+-   **Diffusion of Innovations:**
     -   Used to understand, plan and influence the adoption of new products -- "New ideas tend to follow a pattern in entering society".
 
     -   **Diffusion is the process in which (1) an innovation is (2) communicated through certain channels (3) over time among (4) the members of a (5) social system**
@@ -241,12 +233,11 @@ Understanding IT Innovation
     -   Innovations do not always diffuse successfully -- e.g. the Dvorak keyboard (better design, significant typing improvement in speed, not wide spread adoption) failed to overtake the QWERTY keyboard.
 
         -   Why didn't it overtake? Lock-in, standardisation, retraining costs
-
 -   Emergence of new product categories:
 
     -   Technology: a manner of accomplishing a task especially using technical processes, methods, or knowledge
 
-    -   Product category: a product category is all the products offering the same general functionality -- a socially constructed partition of products that are perceived to be similar and in which firms choose to position their products
+    -   **Product category:** a product category is all the products offering the same general functionality -- a socially constructed partition of products that are perceived to be similar and in which firms choose to position their products
 
     -   Factors that lead to a dominant category:
 
@@ -255,7 +246,6 @@ Understanding IT Innovation
         -   Firms' attempts to claim advantages market positions
 
         -   Stakeholders making sense of emerging categories
-
 -   Dominant Design:
 
     -   Design around which the industry settles
@@ -399,8 +389,9 @@ Understanding IT Innovation
         -   Fast second: waiting for the dominant design to begin to emerge and the moving to be part of it (that is, helping to create it)
 
             -   Established firms with technology to protect. Not in their best interest for new technology to become established, but once it seems likely, try to become leaders in the new market
-
             -   Timing -- has to be ready to move as any first mover\.... Continue to run its core business and waiting to see whom the first mover will be
+-   **Tutorial 3: Dominant Design in the Smartphone Market**
+    -   Android
 
 # L4: Disruptive Innovation
 
@@ -439,9 +430,7 @@ Understanding IT Innovation
             -   Technologies may already appear in the scope of enlightenment and then disappear.
 
             -   Doesn't deal well with tech that never succeeds or is quickly suspended.
-
 -   **Disruptive Innovation -- Christensen**:
-
     -   Few technologies are intrinsically disruptive or sustaining in character
 
     -   **Business model that the technology enables that creates the disruptive impact**
@@ -507,10 +496,10 @@ Understanding IT Innovation
     -   Types of disruption:
 
         -   **Low-end disruption: there are customers who do not need the full functionality or performance of products already on the market so cheaper alternatives can take over**
-
         -   **New-market disruption: there are customers who have needs that were not being addressed by existing products**
-
         -   Examples: Wikipedia and the encyclopaedia, Netflix and entertainment, AirBnB and accommodation
+-   Value Chains/Network
+-   **Tutorial 4: Cognitive Services and its Value Chain**
 
 # L5: Distributed Innovation I
 
@@ -631,9 +620,7 @@ Understanding IT Innovation
 -   Crowdsourcing:
 
     -   Crowdsourcing represents the act of a company or institution taking a function once performed by employees and outsourcing it to an undefined (and generally large) network of people in the form of an open call
-
     -   Elements: clear goal, defined crowd, crowd sourcer is identified, online processes, uses internet, open call of variable extent
-
     -   Why do people do it?
 
         -   Desire to earn money
@@ -647,8 +634,8 @@ Understanding IT Innovation
         -   Socialise
 
         -   Have fun
-
     -   Crowdfunding is the sourcing of funds from a crowd -- a specific type of crowdsourcing
+-   **Tutorial 5: Distributed Innovation**
 
 # L6: Distributed Innovation II
 
@@ -683,7 +670,6 @@ Understanding IT Innovation
     -   Benefits are self-reinforcing
 
     -   Kaggle -- allowing companies to open data to solve company-specific problems
-
 -   Free and Open source
 
     -   Traditionally most software was proprietary
@@ -761,26 +747,22 @@ Understanding IT Innovation
         -   Meeting obligations and software licences -- ensuring appropriate notices
 
         -   Accidently contaminating code by introducing General Public Licence code =\> legally required to release proprietary code.
-
 -   FOSS Licences
 
     -   Obligations depend on the actual software licence
-
     -   Obligations may include: nothing, mention you have used it, redistribute changes you have made to it, not suing other companies in relation to patents you may hold relating to features of the open source project.
-
     -   Main open source licences:
 
         -   Permissive licences -- changes don't need to be made available (Public domain, MIT, BSD, Apache Software Licence)
 
         -   Restrictive (copyleft) licences -- changes must be made available (GPLv2, GPLv3, AGPL, SleepyCat)
-
     -   Public domain -- no IP rights
-
     -   MIT -- user can do anything, copyright of original author is maintained, no warranty
-
     -   BSD -- like MIT but use must be acknowledged
-
     -   GPL -- more restrictive, must release modified code
+-   **Tutorial 6: Open Innovation with Maps**
+
+# **Tutorial 7: Selected Examples of Sharing Economy**
 
 # L8: Distributed Innovation III
 
@@ -895,16 +877,15 @@ Understanding IT Innovation
     -   Types of platforms
 
         -   Aggregation -- Facilitate transactions, connect users to resources, hub and spoke model -- eBay, Airbnb, App Store
-
         -   Social -- facilitate social integrations, network model -- Facebook, twitter
-
         -   Mobilisation -- move people to act -- apache or Linux
+-   **Tutorial 7: BMC**
 
 # L10 IT Innovation management; Judging Innovation
 
 - Key principles for start-up
 
-    -   Customer development
+    -   Customer developwment
 
         -   "get out of the building"
 
@@ -1238,7 +1219,58 @@ Understanding IT Innovation
       - **we tackle ideas that have the riskiness and ambition of early-stage research and approach them with the focus and speed of a startup**
       - **X is a team of inventors and entrepreneurs from a wide variety of backgrounds**
 
-
 #L12 Innovation Ecosystem; Sydney's Innovation Ecosystem
 
+- The innovation ecosystem
+  - Open network of organisation that interact with each other and operate within framework conditions that regulate their activities and interactions
+  - There components
+    - Innovation activities
+    - networks
+    - Framework conditions
+  - Collectively function to produce and diffuse innovations that have, in aggregate, economic, social and/or environmental value
+
+- **Case study**
+  - Silicon Valley 
+    - Tech company density
+    - Importance during phases of IT innovation history
+  - Factors that led to the emergence of Silicon Valley as a powerful tech ecosystem
+  - Successful innovation ecosystem
+    - Strong research-driven universities
+    - Globally experienced repeat entrepreneurs
+      - Elon Musk
+    - Sophisticated risk capital
+      - Nasdaq
+    - Social captial
+    - Knowledge sharing 
+    - Tolerance for risk taking
+    - Creative destruction
+    - Constructive failure
+    - Positive aggregate returns
+    - Supportive government policy
+- Sydney's Ecosystem
+  - Co-working spaces
+  - Accelerators
+  - Tech business incubators
+  - Government programs: R&D Tax Incentives
+  - Universities 
+  - Government-funded research organization: CSIRO (Data61)
+  - Established companies doing software/hardware development: Atlassian, Google, Canon
+  - Hacker spaces
+
 #L13 Review
+
+- Level of Involvement
+  - Society,Country and World
+  - Organization
+  - Individual or team
+- Technology innovation
+  - Innovation = Idea + Application
+  - Innovation as creative destruction
+  - Importance of Innovation
+    - Competitive driver in many industries
+    - Leads to improvement in productivity
+    - Linked with improvements in GDP
+    - Linked to improvement in standard of living 
+    - High growth firms
+- Innovation cycle
+
