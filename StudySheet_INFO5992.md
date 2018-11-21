@@ -497,24 +497,26 @@ Understanding IT Innovation
         -   **Low-end disruption: there are customers who do not need the full functionality or performance of products already on the market so cheaper alternatives can take over**
         -   **New-market disruption: there are customers who have needs that were not being addressed by existing products**
         -   Examples: Wikipedia and the encyclopaedia, Netflix and entertainment, AirBnB and accommodation
--   Value Chains/Network
 -   **Tutorial 4: Cognitive Services and its Value Chain**
-
-# L5: Distributed Innovation I
 
 -   Value Network -- similar concept to the value network but focuses on the whole system.
 
     -   Analysing value networks lets you see the relationships between companies, your companies position in the market, look for disruptive innovation opportunities
 
-    -   Christiansen, when disruptors enter in to an existing value network they must adopt their business model to confirm to the existing valued network and therefor fail disruption because they become co-opted.
+        -   Understanding industry
+        -   Understanding company position
+        -   Deciding where you company want to be
+        -   Looks for opportunities for disruption
+        -   Looks for threats for being disruptive
 
     -   Disruption performed through
 
         -   Disintermediation -- cutting out the middle man
-
         -   Re-intermediation -- adding a new intermediary
-
         -   Ignoring the current value network and have it change around you.
+
+
+#L5: Distributed Innovation I
 
 -   Distributed Innovation:
 
@@ -562,8 +564,7 @@ Understanding IT Innovation
 
         -   Possible loss of competitive advantage
 
-    -   Enablers of distributed innovation:
-
+    -   **Modularity is the Enablers of distributed innovation:**
         -   Modularity -- use of individual distinct functional units / divide into smaller modules. Products can be modular at:
 
             -   User level -- Firefox addons, Office plugins
@@ -571,9 +572,10 @@ Understanding IT Innovation
             -   Producer (company) level -- software based on a company's platform
 
             -   Industry -- each component of a PC made by different companies
-
--   Product platforms -- foundation of components around a family of related products (can use different price points, different customer types).
-
+-   **Product platforms -- foundation of components around a family of related products (can use different price points, different customer types).**
+    -   Makes it possible for companies to:
+        -   Have a rich line-up of different products with the same core functions
+        -   To do so efficiently through re-use of a common platform
     -   Companies can provide product platforms by:
 
         -   Making source code available e.g. Java
@@ -585,7 +587,6 @@ Understanding IT Innovation
         -   Provide a product platform for external innovation e.g. Android
 
         -   Provide live data / functionality via API e.g. Facebook
-
     -   Benefits:
 
         -   Can be made available externally =\> new business models
@@ -595,16 +596,14 @@ Understanding IT Innovation
         -   Higher adaptability
 
         -   Innovative aspects of a platform can benefit a range of products
-
--   Web APIs
-
-    -   Interface for web-based services to interact
+-   **Web APIs**
+    -   Interface for web-based services to interact (usually RESTful API)
 
     -   Enable modularity on the web
 
     -   Used for payments, maps, messaging
 
-    -   In the API economy companies that prosper are the ones that aggregate the most data smartly and open it up to others
+    -   Becoming the underlying infrastructure for a lot of automation
 
     -   API business models:
 
@@ -615,9 +614,7 @@ Understanding IT Innovation
         -   API promoting existing product -- designed to solidify market position; often free and work to attract interest and traffic
 
     -   API businesses: Salesforce (50% of revenue), Expedia (90% of revenue), eBay (60% of revenue).
-
--   Crowdsourcing:
-
+-   **Crowdsourcing:**
     -   Crowdsourcing represents the act of a company or institution taking a function once performed by employees and outsourcing it to an undefined (and generally large) network of people in the form of an open call
     -   Elements: clear goal, defined crowd, crowd sourcer is identified, online processes, uses internet, open call of variable extent
     -   Why do people do it?
@@ -634,6 +631,11 @@ Understanding IT Innovation
 
         -   Have fun
     -   Crowdfunding is the sourcing of funds from a crowd -- a specific type of crowdsourcing
+    -   4 major types:
+        -   Knowledge discovery
+        -   Broadcast Search
+        -   Peer-vetted creation
+        -   Distributed Human Intelligence
 -   **Tutorial 5: Distributed Innovation**
 
 # L6: Distributed Innovation II
