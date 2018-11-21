@@ -386,10 +386,9 @@ Understanding IT Innovation
 
             -   Competing on low cost and low price and trying to be better than the competition (little innovation)
 
-        -   Fast second: waiting for the dominant design to begin to emerge and the moving to be part of it (that is, helping to create it)
-
-            -   Established firms with technology to protect. Not in their best interest for new technology to become established, but once it seems likely, try to become leaders in the new market
-            -   Timing -- has to be ready to move as any first mover\.... Continue to run its core business and waiting to see whom the first mover will be
+        -   **Fast second: waiting for the dominant design to begin to emerge and the moving to be part of it (that is, helping to create it)**
+            -   **Established firms with technology to protect. Not in their best interest for new technology to become established, but once it seems likely, try to become leaders in the new market**
+            -   **Timing -- has to be ready to move as any first mover\.... Continue to run its core business and waiting to see whom the first mover will be**
 -   **Tutorial 3: Dominant Design in the Smartphone Market**
     -   Android
 
@@ -885,7 +884,7 @@ Understanding IT Innovation
 
 - Key principles for start-up
 
-    -   Customer developwment
+    -   Customer development
 
         -   "get out of the building"
 
@@ -1059,9 +1058,9 @@ Understanding IT Innovation
 
     -   Berkeley big ideas
 
-        -   **Pre-proposal** round focuses on the extent to which the teams propose a creative solution to a social problem and the project's intended social impact
+        -   **Pre-proposal** round focuses on the extent to which the teams propose a creative solution to a social problem and the project's intended social impact (解决问题，预期影响)
 
-        -   **Full proposals** are judged primarily on the project's potential social impact and the viability of the project plans
+        -   **Full proposals** are judged primarily on the project's potential social impact and the viability of the project plans (可行性，潜在社会影响)
 
     -   ImagineCup Microsoft
 
@@ -1097,7 +1096,7 @@ Understanding IT Innovation
   - using budgets for accountability and performance measurement
   - key performance indicators, linked to incentives
 
-- creating a culture for generation of new ideas
+- **creating a culture for generation of new ideas**
 
   - **Liquid Network:** having a diversity of expertise, and it’s ideas bouncing between different expertise that so often triggers the big breakthrough
   - **Slow Hunch**: a great idea slowly fades into view over a long period of time
@@ -1118,7 +1117,7 @@ Understanding IT Innovation
     ![1](./1.PNG)
 
     - factor that most led to engagement of workers was:
-      - “Making progress in meaningful work”
+      - **“Making progress in meaningful work”**
       - more important than bonuses, raises, etc.
       - more likely to lead to ideas/breakthrough
 
@@ -1145,23 +1144,23 @@ Understanding IT Innovation
       - Partner feature
       - Training feature
 
-- Culture and Innovation in a Digital Age
+- **Culture and Innovation in a Digital Age**
 
-  - the only thing that’s going to enable you to keep building new capabilities and trying out new concepts long before they are conventional wisdom is culture
+  - **the only thing that’s going to enable you to keep building new capabilities and trying out new concepts long before they are conventional wisdom is culture**
   - Culture for a Digital age
     - cultural obstacles correlate clearly with negative economic performance
     - culture is the most significant self-reported barrier to digital effectiveness
-  - Cultural intervention points
+  - **Cultural intervention points (介入点)**
     - An appetite for risk: people feel comfortable trying things that might fail
-    - Making bold bets
+    - **Making bold bets (大胆下注)**
       - A culture of digital aspirations
       - Embracing resource reallocation
-    - A customer-centric organizational culture
+    - **A customer-centric organizational culture**
       - data and tools
       - unifying force
-    - Busting silos
+    - **Busting silos (突破口)** 
       - Data-driven transparency; Digital information breakdowns
-    - Instilling accountability
+    - **Instilling accountability (问责制度)**
 
 - Company Structure supporting invention and innovation
 
@@ -1176,7 +1175,7 @@ Understanding IT Innovation
       - break overall company into several subunits
       - utilize different culture and controls in different units
 
-- Structural dimensions which influence innovation
+- **Structural dimensions which influence innovation**
 
   - **formalization**: rules and procedures to structure the behavior of employees
   - **standardization**: company activities are performed in a uniform manner
@@ -1193,11 +1192,13 @@ Understanding IT Innovation
     - encourage creativity and experimentation
     - low consistency and reliability
 
-- Combining the best of small and large
+- **Combining the best of small and large**
 
   - some divisions may be small and organic
   - other may be larger and more mechanistic
   - some try to do both in different divisions
+  - can also alternate through different structures over time
+  - sometimes new product development can be quite independent of even the main R&D division
 
 - **Case Study:** Successful Culture for Innovation
 
@@ -1256,21 +1257,3 @@ Understanding IT Innovation
   - Government-funded research organization: CSIRO (Data61)
   - Established companies doing software/hardware development: Atlassian, Google, Canon
   - Hacker spaces
-
-#L13 Review
-
-- Level of Involvement
-  - Society,Country and World
-  - Organization
-  - Individual or team
-- Technology innovation
-  - Innovation = Idea + Application
-  - Innovation as creative destruction
-  - Importance of Innovation
-    - Competitive driver in many industries
-    - Leads to improvement in productivity
-    - Linked with improvements in GDP
-    - Linked to improvement in standard of living 
-    - High growth firms
-- Innovation cycle
-
